@@ -1,0 +1,49 @@
+---
+layout: layout
+---
+
+<section class="content">
+  <h1>{{ page.title }}</h1>
+
+  <section class="byline">
+    {{ page.date | date: "%B %e, %Y" }}
+  </section>
+
+  <section class="postcontent">
+  {{ content }}
+  </section>
+
+  <!-- TODO: bio here -->
+  <section class="meta">
+    <h3>About</h3>
+    <section class="copy">
+      <p>
+        I'm one of the founders of <a href="http://opensignal.com">OpenSignal</a>. I also organize the <a href="meetup.com/San-Francisco-Quantified-Self/">San Francisco Quantified Self</a> Meetup group.
+      </p>
+      <p><a href="https://twitter.com/sinak" target="_blank">Write to me on Twitter</a>.</p>
+      <p>
+      <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="sinak">Tweet</a>
+      <a href="http://twitter.com/sinak" class="twitter-follow-button" data-show-count="false">Follow @sinak</a>
+      <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+      </p>
+
+      <div id="disqus_thread"></div>
+      <!--
+      <script type="text/javascript">
+          /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+          var disqus_shortname = 'sinak'; // required: replace example with your forum shortname
+
+          /* * * DON'T EDIT BELOW THIS LINE * * */
+          (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      </a>-->
+    
+
+    </section>
+  </section>
+</section>

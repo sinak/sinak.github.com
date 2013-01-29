@@ -1,0 +1,15 @@
+---
+layout: layout
+title: Sina
+---
+
+<section class="excerpt">
+    {% for post in site.posts %}
+		<a href="{{site.baseurl}}{{ post.url }}"><h3>{{ post.title }}</h3></a>
+		<p class="date">{{ post.date | date_to_string }}</p>
+
+		<div class="entry">{{ post.excerpt }}</div>
+
+        <p class="meta"><a href="{{site.baseurl}}{{ post.url }}">Read More</a></p>
+    {% endfor %}
+</section>
