@@ -1,6 +1,6 @@
 markdown: rdiscount
 pygments: true
-permalink: :title
+permalink: /:title
 
 # Continue compiling even if there are errors. Keep it true, unless troubleshooting.
 auto: false
