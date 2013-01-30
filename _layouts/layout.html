@@ -21,8 +21,28 @@
   <link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
   <script type="text/javascript" src="/js/application.js"></script>
+
+<script>
+
+jQuery(document).ready(function($) {
+    var $shareWidgets = $( '.share-widget' );
+    $shareWidgets.css('display','none');
+
+    $shareWidgets.bind( 'scroll', { distance: 500 }, function() {
+      $shareWidgets.css('display','block');
+    });
+});
+
+$(window).scroll(function () {
+    var $shareWidgets = $( '.share-widget' );
+      $shareWidgets.fadeIn("slow");
+});
+
+</script>
+
+{% include social.html %}
 </head>
 
 <body>
@@ -35,12 +55,20 @@
         <h1>Sina Khanifar</h1>
         <p>Ramblings about technology.</p>
 
+        <!-- Twitter follow button -->
+        <div style="float:left; padding-right:10px;">
+          <div class="twitter_box"><span id="followers"></span></div>
+          <a href="https://twitter.com/Snitchware" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
+        </div>
 
-        <a href="https://twitter.com/sinak" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @sinak</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-        <br /><br />
-        <div class="fb-follow" data-href="https://www.facebook.com/jejune" data-layout="box_count" data-show-faces="false" data-font="lucida grande" data-width="240"></div>
+
+        <iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fjejune&amp;layout=box_count&amp;show_faces=false&amp;colorscheme=light&amp;width=55" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:66px; height: 65px; float:left;"  allowTransparency="true"></iframe>
+
+
       </header>
+
+
   <!--
   <section class="sidebar">
     <a href="/">
@@ -72,6 +100,29 @@
 </div>
 
 {% include analytics.html %}
-{% include facebook.html %}
+
+
+<script>
+    (function(d, t) {
+        var g = d.createElement(t),
+            s = d.getElementsByTagName(t)[0];
+        g.src = '//hnbutton.appspot.com/static/hn.min.js';
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
+
+<script id="myscript" type="text/javascript">
+
+(function() {
+ var myscript = document.createElement('script');
+ myscript.type = 'text/javascript';
+ myscript.src = ('http://static.bufferapp.com/js/button.js');
+ var s = document.getElementById('myscript');
+ s.parentNode.insertBefore(myscript, s);
+})();
+
+</script>
+
+
 </body>
 </html>

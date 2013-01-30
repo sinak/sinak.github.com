@@ -26,7 +26,7 @@ google_analytics_id: UA-38064335-1
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: http://sina.is
-
+#baseurl: http://sina.is
 
 # Uncomment if you are planning to run the blog in a subdirectory
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.

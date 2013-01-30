@@ -2,8 +2,30 @@
 layout: layout
 ---
 
+<div id="share_sidebar">
+  <span class="share-widget">
+  <a href="http://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-url="{{ site.url }}{{ page.url }}" data-count="vertical" data-via="sinak">Tweet</a>
+
+
+  <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2F{{ site.url |url_encode }}{{ page.url | url_encode }}&amp;send=false&amp;layout=box_count&amp;width=55&amp;show_faces=false&amp;colorscheme=light&amp;action=like" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:52px; height:65px; margin-top:5px" allowTransparency="true">
+  </iframe>
+
+  <div style="padding-right:3px; padding-top:3px">
+      <div class="g-plusone" data-annotation="bubble" data-width="50" data-size="tall"  data-href="{{ site.url }}{{ page.url }}"></div>
+  </div>
+  <div>
+  <a href="http://bufferapp.com/add" class="buffer-add-button" data-url="h{{ site.url }}{{ page.url }}" data-count="vertical" data-via="sinak" >Buffer</a>
+  </div>
+  <div style="margin-right:-13px; padding-top:8px" >
+   <a href="http://news.ycombinator.com/submit" class="hn-share-button" data-title="{{ post.title }}">Vote on HN</a>
+  </div>
+
+
+  </span>
+</div>
+
 <section class="content">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.title }} </h1>
 
   <section class="byline">
     {{ page.date | date: "%B %e, %Y" }}
@@ -20,6 +42,9 @@ layout: layout
       <p>
         I'm one of the founders of <a href="http://opensignal.com">OpenSignal</a>. I also organize the <a href="meetup.com/San-Francisco-Quantified-Self/">San Francisco Quantified Self</a> Meetup group.
       </p>
+
+
+
       <p><a href="https://twitter.com/sinak" target="_blank">Write to me on Twitter</a>.</p>
       <p>
       <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="sinak">Tweet</a>
