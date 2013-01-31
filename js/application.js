@@ -1,14 +1,12 @@
 // Makes share buttons appear after first scroll
 
 var current = "more";
-var currenth = "more";
-if ($(window).width() < 321 ){ var current = "less"; alert('current < 321');}
-if ($(window).height() < 321 ){var currenth = "less";alert('height < 321');}
+if ($(window).width() < 321 || $(window).height() < 321){ var current = "less"; alert('current < 321');}
 
 jQuery(document).ready(function($) {
   var $shareWidgets = $( '#share-widget' );
 
-	if ($(window).width() < 321 || $(window).height() < 321 ) {
+	if (current = "less") {
 		$('#share_sidebar').insertAfter($('.postcontent'));
 		alert('moved down a');
 	}
@@ -29,26 +27,13 @@ if ($(window).width() > 321) {
 
 
 $(window).resize(function() {
-	if ($(window).width() < 321 ) {
+	if ($(window).width() < 321 || $(window).height() < 321) {
 		if (current != "less"){$('#share_sidebar').insertAfter($('.postcontent'));alert('move down b');}
 		current = "less";
 	}
-	else if ($(window).width() > 321  && current != "more") {
+	else if ($(window).width() > 320 || $(window).height() > 320) {
 	    if (current != "more"){$('#share_sidebar').insertAfter($('header'));alert('move up b');}
 	    current = "more";
-	}
-	else {}
-});
-
-
-$(window).resize(function() {
-	if ($(window).height() < 321 ) {
-		if (currenth != "less"){$('#share_sidebar').insertAfter($('.postcontent'));alert('move down c');}
-		currenth = "less";
-	}
-	else if ($(window).height() > 321  && currenth != "more") {
-	    if (currenth != "more"){$('#share_sidebar').insertAfter($('header'));alert('move down d');}
-	    currenth = "more";
 	}
 	else {}
 });
