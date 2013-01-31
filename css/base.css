@@ -66,7 +66,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family:Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal;
   color:#333;
   font-size:12px;
 }
@@ -245,7 +245,7 @@ section.content {
 }
 
 
-#share-widget #hackernews {
+#hackernews {
   position:relative;
   right:2px;
   }
@@ -269,13 +269,13 @@ section.content {
     padding-bottom:20px;
   }
 
-  header div#title {
+  header #title {
     float:left;
     width:220px;
     clear: none;
   }
 
-  header div#follow {
+  header #follow {
     float:left;
     width:140px;
     clear: none;
@@ -364,11 +364,11 @@ section.content {
   }
 
   header #title {
-    width: 200px;
+    width: 204px;
     padding-right:0;
   }
 
-  header div#follow {
+  header #follow {
     float:right;
     width:143px;
     clear: none;
@@ -393,12 +393,12 @@ section.content {
     margin-right:10px;
   }
 
-  #share_sidebar #buffer {
+  #buffer {
     top:-6px;
     position: relative;
   }
 
-  #share_sidebar #hackernews {
+  #hackernews {
     top:43px;
     position:relative;
     width:50px;
