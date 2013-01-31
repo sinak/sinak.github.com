@@ -23,7 +23,9 @@ h1, h2, h3 {
 h1 {
   font-size:28px;
 }
-
+.content h1 {
+  float:left;
+}
 h2 {
   color:#393939;
 }
