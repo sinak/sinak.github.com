@@ -39,6 +39,7 @@ $(window).resize(function() {
 var currenth = "more";
 
 if ($(window).height() < 330 ) { currenth = "less" }
+	alert($(window).height())
 
 $(window).resize(function() {
 	if ($(window).height() < 330 ) {
