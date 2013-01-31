@@ -262,6 +262,11 @@ section.content {
     position:static;
     width:auto;
   }
+
+
+section.excerpt {
+  width:auto;
+}
   
   header {
     float:left;
@@ -347,6 +352,10 @@ section.content {
   #share_sidebar {
   }
 
+  section.content {
+    width:auto;
+  }
+
 
 }
 
@@ -399,14 +408,21 @@ section.content {
   }
 
   #hackernews {
-    top:43px;
+    clear:both;
     position:relative;
     width:50px;
+    top:0px;
+    display:block;
+    clear:both;
   }
 
   section.content {
     margin-right:0;
     padding:0;margin:0;
+  }
+
+  section.meta {
+    float:left;
   }
   
 }
