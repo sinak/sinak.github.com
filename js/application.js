@@ -2,8 +2,9 @@
 jQuery(document).ready(function($) {
   var $shareWidgets = $( '#share-widget' );
 
-	if ($(window).width() < 480) {
+	if ($(window).width() < 480 || $(window).height() < 321 ) {
 		$('#share_sidebar').insertAfter($('.postcontent'));
+		alert('hisina');
 	}
 	else {
 	  $shareWidgets.css('display','none');
@@ -37,7 +38,7 @@ $(window).resize(function() {
 });
 
 var currenth = "more";
-if ($(window).height() < 321 ) { currenth = "less"; alert(currenth);}
+if ($(window).height() < 321 ) { currenth = "less";}
 
 $(window).resize(function() {
 	if ($(window).height() < 321 ) {
