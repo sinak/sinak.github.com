@@ -37,16 +37,14 @@ $(window).resize(function() {
 });
 
 var currenth = "more";
-
-if ($(window).height() < 330 ) { currenth = "less" }
-	alert($(window).height())
+if ($(window).height() < 321 ) { currenth = "less"; }
 
 $(window).resize(function() {
-	if ($(window).height() < 330 ) {
+	if ($(window).height() < 321 ) {
 		if (currenth != "less"){$('#share_sidebar').insertAfter($('.postcontent'));}
 		currenth = "less";
 	}
-	else if ($(window).height() > 330  && currenth != "more") {
+	else if ($(window).height() > 321  && currenth != "more") {
 	    if (currenth != "more"){$('#share_sidebar').insertAfter($('header'));}
 	    currenth = "more";
 	}
