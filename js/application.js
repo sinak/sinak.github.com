@@ -22,7 +22,7 @@ if ($(window).width() > 480) {
 
 var current = "more";
 
-if ($(window).width() < 480 ) { current = "less" }
+if ($(window).width() < 480 ) { current = "less"; }
 
 $(window).resize(function() {
 	if ($(window).width() < 480 ) {
