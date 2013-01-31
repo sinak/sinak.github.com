@@ -6,7 +6,7 @@ if ($(window).width() < 321 || $(window).height() < 321){ var current = "less"; 
 jQuery(document).ready(function($) {
   var $shareWidgets = $( '#share-widget' );
 
-	if (current = "less") {
+	if (current == "less") {
 		$('#share_sidebar').insertAfter($('.postcontent'));
 		alert('moved down a');
 	}
@@ -29,10 +29,12 @@ if ($(window).width() > 321) {
 $(window).resize(function() {
 	if ($(window).width() < 321 || $(window).height() < 321) {
 		if (current != "less"){$('#share_sidebar').insertAfter($('.postcontent'));alert('move down b');}
+		alert('changea');
 		current = "less";
 	}
 	else if ($(window).width() > 320 || $(window).height() > 320) {
 	    if (current != "more"){$('#share_sidebar').insertAfter($('header'));alert('move up b');}
+	    alert('changeb');
 	    current = "more";
 	}
 	else {}
