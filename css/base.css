@@ -24,7 +24,8 @@ h1 {
   font-size:28px;
 }
 .content h1 {
-  float:left;
+  float:right;
+  clear:both;
 }
 h2 {
   color:#393939;
