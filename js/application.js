@@ -37,7 +37,7 @@ $(window).resize(function() {
 });
 
 var currenth = "more";
-if ($(window).height() < 321 ) { currenth = "less"; alert('hii');}
+if ($(window).height() < 321 ) { currenth = "less"; alert(currenth);}
 
 $(window).resize(function() {
 	if ($(window).height() < 321 ) {
