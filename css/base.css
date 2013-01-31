@@ -25,7 +25,6 @@ h1 {
 }
 .content h1 {
   float:right;
-  clear:both;
 }
 h2 {
   color:#393939;
@@ -118,6 +117,7 @@ header img {
 
 header {
   width:205px;
+  float:left;
   position:fixed;
 }
 
