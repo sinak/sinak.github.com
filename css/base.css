@@ -114,7 +114,7 @@ header img {
 }
 
 header {
-  width:270px;
+  width:205px;
   float:left;
   position:fixed;
 }
@@ -223,23 +223,40 @@ p.meta {
 }
 
 #share_sidebar {
-  float:right;
-  width:100px;
-  text-align:right;
+  float:left;
+  width:60px;
+  text-align:center;
   height:100px;
+  position:fixed;
+  margin-left:780px;
+  margin-top:10px;
+}
+
+section.content {
+  margin-right:120px;
 }
 
 #share_sidebar .buffer-button {
   padding-top:6px;
 }
 
-@media print, screen and (max-width: 960px) {
+#share-widget {
+  line-height:250%;
+}
+
+
+#share-widget #hackernews {
+  position:relative;
+  right:2px;
+  }
+
+@media print, screen and (max-width: 900px) {
   
   div.wrapper {
     width:auto;
     margin:0;
   }
-  
+
   header, section, footer {
     float:none;
     position:static;
@@ -247,14 +264,55 @@ p.meta {
   }
   
   header {
-    padding-right:320px;
+    float:left;
+    width: 100%;
+    padding-bottom:20px;
   }
+
+  header div#title {
+    float:left;
+    width:220px;
+    clear: none;
+  }
+
+  header div#follow {
+    float:left;
+    width:140px;
+    clear: none;
+    padding-top:140px;
+    padding-left:15px;
+  }
+
+  section.content {
+    margin-left:0;
+    margin-right:60px;
+  }
+
+  section.meta h3, section.meta p {
+    margin-bottom: 10px;
+  }
+
+  section.copy {
+    padding:0;
+  }
+
+  #share_sidebar {
+    width:60px;
+    position:fixed;
+    float:right;
+    margin-left:0;
+    right:25px;
+    margin-top:230px;
+  }
+
   
   section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
     padding:20px 0;
-    margin:0 0 20px;
+  }
+
+  
+  section.byline {
+    padding:0px;
   }
   
   header a small {
@@ -266,24 +324,30 @@ p.meta {
     right:50px;
     top:52px;
   }
+
 }
 
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
+    padding:40px;
   }
   
   header {
-    padding:0;
   }
   
-  header ul, header p.view {
-    position:static;
+  header#follow{
+    margin-left:0px;
   }
-  
+
   pre, code {
     word-wrap:normal;
   }
+
+  #share_sidebar {
+  }
+
+
 }
 
 @media print, screen and (max-width: 480px) {
@@ -291,9 +355,58 @@ p.meta {
     padding:15px;
   }
   
+  header {
+    margin-bottom:10px;
+  }
+
   header ul {
     display:none;
   }
+
+  header #title {
+    width: 200px;
+    padding-right:0;
+  }
+
+  header div#follow {
+    float:right;
+    width:143px;
+    clear: none;
+    padding-top:40px;
+    margin-right:-25px;
+    width:80px;
+    line-height:220%;
+  }
+
+  #share_sidebar {
+    float:left;
+    position:relative;
+    width:100%;
+    margin:0;
+    text-align:left;
+    right:0;
+  }
+
+  #share_sidebar div, #share_sidebar iframe {
+    float:left;
+    margin-right:10px;
+  }
+
+  #share_sidebar #buffer {
+    top:-6px;
+    position: relative;
+  }
+
+  #share_sidebar #hackernews {
+    top:43px;
+    position:relative;
+    width:50px;
+  }
+
+  section.content {
+    margin-right:0;
+  }
+  
 }
 
 @media print {

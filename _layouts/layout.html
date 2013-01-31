@@ -24,24 +24,6 @@
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
   <script type="text/javascript" src="/js/application.js"></script>
 
-<script>
-
-jQuery(document).ready(function($) {
-    var $shareWidgets = $( '.share-widget' );
-    $shareWidgets.css('display','none');
-
-    $shareWidgets.bind( 'scroll', { distance: 500 }, function() {
-      $shareWidgets.css('display','block');
-    });
-});
-
-$(window).scroll(function () {
-    var $shareWidgets = $( '.share-widget' );
-      $shareWidgets.fadeIn("slow");
-});
-
-</script>
-
 {% include social.html %}
 </head>
 
@@ -50,78 +32,39 @@ $(window).scroll(function () {
     <div class="wrapper">
       <header>        
 
-        <a href ="/"><img src="/images/sina_small.png" alt="Sina Khanifar" /></a>
+        <div id = "title">
+          <a href ="/"><img src="/images/sina_small.png" alt="Sina Khanifar" /></a>
 
-        <h1>Sina Khanifar</h1>
-        <p>Ramblings about technology.</p>
-
-        <!-- Twitter follow button -->
-        <div style="float:left; padding-right:10px;">
-          <div class="twitter_box"><span id="followers"></span></div>
-          <a href="https://twitter.com/Snitchware" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
+          <h1>Sina Khanifar</h1>
+          <p>Ramblings about technology.</p>
         </div>
 
-        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        <div id = "follow">
 
-        <iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fjejune&amp;layout=box_count&amp;show_faces=false&amp;colorscheme=light&amp;width=55" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:66px; height: 65px; float:left;"  allowTransparency="true"></iframe>
+          <!-- Twitter follow button -->
+          
+          <div style="float:left; padding-right:10px;">
+            <div class="twitter_box"><span id="followers"></span></div>
+            <a href="https://twitter.com/sinak" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
+          </div>
 
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+          <!-- Facebook follow iFrame -->
+          <iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fjejune&amp;layout=box_count&amp;show_faces=false&amp;colorscheme=light&amp;width=55" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:66px; height: 65px; float:left;"  allowTransparency="true"></iframe>
+      
+      </div>
 
       </header>
 
 
-  <!--
-  <section class="sidebar">
-    <a href="/">
-      <img src="{{ site.gravatar_url }}?s=150" height="75" width="75" class="avatar" />
-    </a>
-    <section class="name">
-      <a href="/">
-        <span id="fname">{{ site.name|split:' '|first }}</span>
-        <span id="lname">{{ site.name|split:' '|last }}</span>
-      </a>
-    </section>
-
-    <section class="meta">
-      <a href="https://github.com/{{ site.github }}" target="_blank"><img src="/images/github.png" /></a>
-      <a href="https://twitter.com/{{ site.twitter }}" target="_blank"><img src="/images/twitter.png"></a>
-      <a href="/atom.xml"><img src="/images/rss.png" /></a>
-    </section>
-
-    <section class="sections">
-      <ul>
-        <li><a href="/about.html">about</a></li>
-        <li><a href="/">posts</a></li>
-      </ul>
-    </section>
-  </section>
-
--->
   {{ content }}
 </div>
 
 {% include analytics.html %}
+{% include social.html %}
 
 
-<script>
-    (function(d, t) {
-        var g = d.createElement(t),
-            s = d.getElementsByTagName(t)[0];
-        g.src = '//hnbutton.appspot.com/static/hn.min.js';
-        s.parentNode.insertBefore(g, s);
-    }(document, 'script'));
-</script>
-
-<script id="myscript" type="text/javascript">
-
-(function() {
- var myscript = document.createElement('script');
- myscript.type = 'text/javascript';
- myscript.src = ('http://static.bufferapp.com/js/button.js');
- var s = document.getElementById('myscript');
- s.parentNode.insertBefore(myscript, s);
-})();
-
-</script>
 
 
 </body>
