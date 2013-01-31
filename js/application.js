@@ -1,7 +1,7 @@
 // Makes share buttons appear after first scroll
 
 var current = "more";
-var current = "more";
+var currenth = "more";
 if ($(window).width() < 480 ){ var current = "less"; }
 if ($(window).height() < 321 ){var currenth = "less";}
 
