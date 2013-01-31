@@ -23,8 +23,8 @@ if ($(window).width() > 480) {
 
 var current = "more";
 
-
 $(window).resize(function() {
+	alert('hi sina');
 	if ($(window).width() < 480 ) {
 		if (current != "less"){$('#share_sidebar').insertAfter($('.postcontent'));}
 		current = "less";
@@ -39,6 +39,7 @@ $(window).resize(function() {
 var currenth = "more";
 
 $(window).resize(function() {
+	alert('hi sina2');
 	if ($(window).height() < 321 ) {
 		if (currenth != "less"){$('#share_sidebar').insertAfter($('.postcontent'));}
 		currenth = "less";
