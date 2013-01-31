@@ -38,14 +38,14 @@ $(window).resize(function() {
 
 var currenth = "more";
 
-if ($(window).height() < 320 ) { currenth = "less" }
+if ($(window).height() < 330 ) { currenth = "less" }
 
 $(window).resize(function() {
-	if ($(window).height() < 320 ) {
+	if ($(window).height() < 330 ) {
 		if (currenth != "less"){$('#share_sidebar').insertAfter($('.postcontent'));}
 		currenth = "less";
 	}
-	else if ($(window).height() > 320  && currenth != "more") {
+	else if ($(window).height() > 330  && currenth != "more") {
 	    if (currenth != "more"){$('#share_sidebar').insertAfter($('header'));}
 	    currenth = "more";
 	}
