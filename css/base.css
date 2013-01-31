@@ -25,6 +25,7 @@ h1 {
 }
 .content h1 {
   float:right;
+  width:100%;
 }
 h2 {
   color:#393939;
