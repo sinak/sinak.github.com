@@ -1,7 +1,7 @@
 // Makes share buttons appear after first scroll
 
 var current = "more";
-if ($(window).width() < 480 || $(window).height() < 321){ var current = "less"; }
+if ($(window).width() <= 480 || $(window).height() <= 321){ var current = "less"; }
 
 jQuery(document).ready(function($) {
   var $shareWidgets = $( '#share-widget' );
@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
 
 var scrolled = false;
 
-if ($(window).width() > 479) {
+if ($(window).width() >= 480) {
 	$(window).scroll(function () {
 	  var $shareWidgets = $( '#share-widget' );
 	    if (scrolled == false) {$shareWidgets.fadeIn("slow");}
@@ -26,11 +26,11 @@ if ($(window).width() > 479) {
 
 
 $(window).resize(function() {
-	if ($(window).width() < 480 || $(window).height() < 321) {
+	if ($(window).width() <= 480 || $(window).height() <= 321) {
 		if (current != "less"){$('#share_sidebar').insertAfter($('.postcontent'));a}
 		current = "less";
 	}
-	else if ($(window).width() > 479 || $(window).height() > 320) {
+	else if ($(window).width() >= 479 || $(window).height() >= 320) {
 	    if (current != "more"){$('#share_sidebar').insertAfter($('header'));}
 	    current = "more";
 	}
