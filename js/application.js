@@ -27,7 +27,7 @@ if ($(window).width() >= 480) {
 
 $(window).resize(function() {
 	if ($(window).width() <= 480 || $(window).height() <= 321) {
-		if (current != "less"){$('#share_sidebar').insertAfter($('.postcontent'));a}
+		if (current != "less"){$('#share_sidebar').insertAfter($('.postcontent'));}
 		current = "less";
 	}
 	else if ($(window).width() >= 479 || $(window).height() >= 320) {
