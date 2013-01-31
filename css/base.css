@@ -376,6 +376,7 @@ section.content {
     margin-right:-25px;
     width:80px;
     line-height:220%;
+    padding-left:0px;
   }
 
   #share_sidebar {
