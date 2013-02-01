@@ -38,3 +38,4 @@ url: http://sina.is
 category_dir: /
 
 destination: _site
+safe: false

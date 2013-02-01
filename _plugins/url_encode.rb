@@ -1,9 +1,10 @@
-require ('CGI')
+require 'CGI'
+require 'liquid'
 
 module Jekyll
   module URLEncode
     def url_encode(text)      
-      CGI.escape(text)
+      if(text != nil) then CGI.escape(text) end
     end
   end
 end
