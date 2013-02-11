@@ -9,14 +9,14 @@ rdiscount:
   extensions: [smart]
 
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Sina.is
+name: Sina Khanifar
 
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Sina Khanifar
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: Ramblings about productivity technology, startups, and entrepreneurship by Sina Khanifar
+description: Ramblings about productivity technology, startups, and entrepreneurship by Sina Khanifar.
 
 twitter: sinak
 github: sinak
