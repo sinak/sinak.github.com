@@ -1,11 +1,20 @@
 ---
 layout: layout
 ---
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=173936762642931";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 <div id="share_sidebar">
     <span id="share-widget">
     <a href="http://twitter.com/share" class="twitter-share-button" data-text="{{ page.title }}" data-url="{{ site.url }}{{ page.url }}" data-count="vertical" data-via="sinak">Tweet</a>
-    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2F{{ site.url |url_encode }}{{ page.url | url_encode }}&amp;send=false&amp;layout=box_count&amp;width=55&amp;show_faces=false&amp;colorscheme=light&amp;action=like" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:65px;" allowTransparency="true">
+    <!--<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2F{{ site.url |url_encode }}{{ page.url | url_encode }}&amp;send=false&amp;layout=box_count&amp;width=55&amp;show_faces=false&amp;colorscheme=light&amp;action=like" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:65px;" allowTransparency="true">-->
+    <fb:like send="false" layout="box_count" width="60" show_faces="false"></fb:like>
     </iframe>
 
     <div style="display:inline;">
