@@ -9,7 +9,7 @@ rdiscount:
   extensions: [smart]
 
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Sina Khanifar
+name: Sina.is
 
 
 # Your name, as you want it to appear underneath each post and in the footer
