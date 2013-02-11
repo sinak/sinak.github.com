@@ -13,16 +13,9 @@ layout: layout
 <div id="share_sidebar">
     <span id="share-widget">
     <a href="http://twitter.com/share" class="twitter-share-button" data-text="&quot;{{ page.title }}&quot; by @sinak" data-count="vertical" data-related="sinak">Tweet</a>
-    <!--<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2F{{ site.url |url_encode }}{{ page.url | url_encode }}&amp;send=false&amp;layout=box_count&amp;width=55&amp;show_faces=false&amp;colorscheme=light&amp;action=like" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:65px;" allowTransparency="true">-->
     <fb:like send="false" layout="box_count" width="60" show_faces="false"></fb:like>
     </iframe>
-
-    <div style="display:inline;">
-        <div class="g-plusone" data-annotation="bubble" data-width="50" data-size="tall"  data-href="{{ site.url }}{{ page.url }}"></div>
-    </div>
-    <div style="display:inline;" id="buffer">
-    <a href="http://bufferapp.com/add" class="buffer-add-button" data-url="h{{ site.url }}{{ page.url }}" data-count="vertical" data-via="sinak" >Buffer</a>
-    </div>
+    <script type="text/javascript" src="http://www.reddit.com/static/button/button2.js"></script>
     <div style="display:inline" id="hackernews">
      <a href="http://news.ycombinator.com/submit" class="hn-share-button" data-title="{{ post.title }}">Vote on HN</a>
     </div>
