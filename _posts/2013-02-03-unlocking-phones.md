@@ -14,7 +14,7 @@ In September 2005, I received a cease and desist letter from Motorola for sellin
 
 The letter indicated that I was in breach of the Digital Millenium Copyright Act (DMCA) by circumventing protection measures in their phones, a crime that’s punishable by up to 5 years in prison and half a million dollars in fines per incident. At the time, I was an undergraduate student studying Physics. The prospect of 5 years or more in prison was devastating.
 
-### Backstory: starving student
+### A bit of backstory
 I started unlocking phones after a typical entrepreneurial experience: I had a problem and was forced to find a solution. I’d brought a cell phone from California to use while attending college in the UK, but quickly discovered that it wouldn’t work with any British cell networks. The phone was locked. Strapped for cash and unable to pay for a new phone, I figured out how to change the Motorola firmware to unlock the device.
 
 Realizing that others were likely having the same problem, I worked with a programmer to create an application that allowed people to quickly and easily unlock their Motorola phones and use them with any carrier. After my first year of college ended in summer of 2004, I launched a website ([Cell-Unlock.com](http://www.cell-unlock.com)) selling the software. It was a make-or-break moment for me personally: I was in a major financial crunch.
