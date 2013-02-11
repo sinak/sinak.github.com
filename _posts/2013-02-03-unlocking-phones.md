@@ -33,18 +33,9 @@ But unlocking a phone has nothing to do with copyright infringement, and using t
 
 Let’s take an example: it’s conceivable that a car manufacturer might put simple chips on each component of a car that are recognized by the car’s electronic system. In and of itself, that’s nothing special. But Motorola’s interpretation of the DMCA would make it illegal for any other company to manufacture third-party replacement parts for that vehicle. The act of selling, or even simply installing, a third party component would be illegal. 
 
-Intuitively we understand that once we’ve purchased a product it’s up to us how we use or modify it. Replacing the hard drive on a Macbook may invalidate our warranty, but it isn’t, and shouldn’t be, illegal. Courts have struck down similar interpretations of the DMCA in the past, but a 2010 ruling ([Vernor vs. Autodesk](http://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc._)) indicates that by including a license agreement with a product, manufacturers can prohibit even simple modifications to the products we as consumers purchase.
+Intuitively we understand that once we’ve purchased a product it’s up to us how we use or modify it. Replacing the hard drive on a Macbook may invalidate our warranty, but it isn’t, and shouldn’t be, illegal. Courts have struck down similar interpretations of the DMCA in the past, but a 2010 ruling ([Vernor vs. Autodesk](http://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc._)) means that by including a restrictive, (shrinkwrapped)[http://en.wikipedia.org/wiki/Shrink_wrap_contract] EULA with a product, manufacturers can prohibit even simple modifications to the products consumers purchase.
 
 Jennifer helped me respond to Motorola by disputing their interpretation of the DMCA; thanks to her efforts, eventually Motorola decided that a college student wasn’t worth pursuing and stopped responding to my letters. I was very lucky that they didn’t decide to take the case to court.
-
-
-### Why it matters
-
-Every three years, rulemaking proceedings are conducted by the Copyright Office to document whether non-infringing uses of copyright works are hampered by the DMCA. After the the Copyright Office makes it recommendations, the Library of Congress can create "classes of works" that users may access through circumvention without obtaining authorization from the copyright owner.
-
-In 2009, after lobbying by the EFF, the Copyright Office and the Librarian of Congress added an exemption for unlocking cell phones. While it's not clear (and never tested in court) whether the DMCA actually outlaws unlocking, the exemption made it explicitly legal, and was a win for consumers.
-
-In October of 2012, the Librarian and Copyright Office decided to remove that exception, citing a decision in 2010 regarding fair use of software, and the fact that more factory unlocked phones are now available on the market.
 
 ### Why it matters
 In the year after helping me with my case, Jennifer Granick fought for an exemption from the DMCA for unlocking phones, and in November 2006 it was granted. That exemption was in place for 6 years, until the Library of Congress and the Copyright Office decided to remove it this past November. As of January 26th, anyone unlocking a new cell phone or providing unlocking services unlocking phones once again risks up to five years in jail for each offense.
