@@ -33,7 +33,7 @@ But unlocking a phone has nothing to do with copyright infringement, and using t
 
 Let’s take an example: it’s conceivable that a car manufacturer might put simple chips on each component of a car that are recognized by the car’s electronic system. In and of itself, that’s nothing special. But Motorola’s interpretation of the DMCA would make it illegal for any other company to manufacture third-party replacement parts for that vehicle. The act of selling, or even simply installing, a third party component would be illegal. 
 
-Intuitively we understand that once we’ve purchased a product it’s up to us how we use or modify it. Replacing the hard drive on a Macbook may invalidate our warranty, but it isn’t, and shouldn’t be, illegal. Courts haven’t decided definitively on which interpretation of the DMCA is correct; in some cases they have enforced Motorola's rendering of the law, and in others they have rejected it.
+Intuitively we understand that once we’ve purchased a product it’s up to us how we use or modify it. Replacing the hard drive on a Macbook may invalidate our warranty, but it isn’t, and shouldn’t be, illegal. Courts have struck down similar interpretations of the DMCA in the past, but a 2010 ruling ([Vernor vs. Autodesk](http://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc._)) indicates that by including a license agreement with a product, manufacturers can prohibit even simple modifications to the products we as consumers purchase.
 
 Jennifer helped me respond to Motorola by disputing their interpretation of the DMCA; thanks to her efforts, eventually Motorola decided that a college student wasn’t worth pursuing and stopped responding to my letters. I was very lucky that they didn’t decide to take the case to court.
 
