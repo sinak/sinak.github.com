@@ -1,7 +1,9 @@
 ---
 layout: post
-title: A Letter to Congress about Unlocking and the DMCA
+title: Dear Congress it's time for a real fix on phone unlocking — and for the copyright problems behind it
 category: posts
+tweet: Dear Congress it's time for a real fix on phone unlocking — and for the copyright problems behind it http://sina.is/a-letter-to-congress/
+hashtag: FixtheDMCA
 
 excerpt: A note about a letter we're sending to congress, and why it's important that they act to pass a permanent exemption for unlocking and open hearings for DMCA reform.
 ---
@@ -10,7 +12,7 @@ This morning a broad coalition of industry and policy leaders sent a letter to t
 
 The letter is signed by over 30 technology companies and public policy organizations including Public Knowledge, the Electronic Frontier Foundation, Reddit, YCombinator, iFixit, The Internet Archive, the New York Tech Meetup and <a href="http://fixthedmca.org" target="_blank">FixtheDMCA.org</a>.
 
-You can find the full text of the letter <a href="https://dl.dropbox.com/u/3155588/Joint%20DMCA%201201%20reform%20letter.pdf" target="_blank">here</a>.
+<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Joint DMCA 1201 Reform Letter on Scribd" href="http://www.scribd.com/doc/132848653/Joint-DMCA-1201-Reform-Letter"  style="text-decoration: underline;" >Our Joint Letter to Judiciary Committee:</a></p><iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/132848653/content?start_page=1&view_mode=scroll" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_96705" width="100%" height="600" frameborder="0"></iframe>
 
 ### Why we're sending the letter now
 There have been three bills proposed in Congress since the White House joined over 110,000 petitioners in asking for unlocking to be legalized on March 4th. Unfortunately each of those bills falls short of a complete fix. 

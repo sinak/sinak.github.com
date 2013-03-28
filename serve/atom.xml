@@ -4,7 +4,7 @@
  <title>Sina.is</title>
  <link href="http://sina.is/atom.xml" rel="self"/>
  <link href="http://sina.is/"/>
- <updated>2013-03-28T10:20:30-07:00</updated>
+ <updated>2013-03-28T11:10:51-07:00</updated>
  <id>http://sina.is</id>
  <author>
    <name>Sina.is</name>
@@ -12,7 +12,7 @@
  
  
  <entry>
-   <title>A Letter to Congress about Unlocking and the DMCA</title>
+   <title>Dear Congress it's time for a real fix on phone unlocking — and for the copyright problems behind it</title>
    <link href="http://sina.is/a-letter-to-congress"/>
    <updated>2013-03-27T00:00:00-07:00</updated>
    <id>http://sina.is/a-letter-to-congress</id>
@@ -20,7 +20,11 @@
 
 &lt;p&gt;The letter is signed by over 30 technology companies and public policy organizations including Public Knowledge, the Electronic Frontier Foundation, Reddit, YCombinator, iFixit, The Internet Archive, the New York Tech Meetup and &lt;a href=&quot;http://fixthedmca.org&quot; target=&quot;_blank&quot;&gt;FixtheDMCA.org&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;You can find the full text of the letter &lt;a href=&quot;https://dl.dropbox.com/u/3155588/Joint%20DMCA%201201%20reform%20letter.pdf&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p  style=&quot; margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;&quot;&gt;   &lt;a title=&quot;View Joint DMCA 1201 Reform Letter on Scribd&quot; href=&quot;http://www.scribd.com/doc/132848653/Joint-DMCA-1201-Reform-Letter&quot;  style=&quot;text-decoration: underline;&quot; &gt;Our Joint Letter to Judiciary Committee:&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;iframe class=&quot;scribd_iframe_embed&quot; src=&quot;http://www.scribd.com/embeds/132848653/content?start_page=1&amp;view_mode=scroll&quot; data-auto-height=&quot;false&quot; data-aspect-ratio=&quot;undefined&quot; scrolling=&quot;no&quot; id=&quot;doc_96705&quot; width=&quot;100%&quot; height=&quot;600&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
 
 &lt;h3&gt;Why we&amp;rsquo;re sending the letter now&lt;/h3&gt;
 
