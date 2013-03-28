@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Sina.is</title>
+ <link href="http://sina.is/atom.xml" rel="self"/>
+ <link href="http://sina.is/"/>
+ <updated>2013-03-27T23:52:07-07:00</updated>
+ <id>http://sina.is</id>
+ <author>
+   <name>Sina.is</name>
+ </author>
+ 
+ 
+ <entry>
+   <title>A Letter to Congress about Unlocking and the DMCA</title>
+   <link href="http://sina.is/a-letter-to-congress"/>
+   <updated>2013-03-27T00:00:00-07:00</updated>
+   <id>http://sina.is/a-letter-to-congress</id>
+   <content type="html">&lt;p&gt;This morning a broad coalition of industry and policy leaders sent a letter to the heads of the House and Senate Judiciary Comittees asking them to pass a bill that permanently legalizes cell phone unlocking and calls for hearings on reforming of Section 1201 of the DMCA.&lt;/p&gt;
+
+&lt;p&gt;The letter is signed by over 30 technology companies and public policy organizations including Public Knowledge, the Electronic Frontier Foundation, Reddit, YCombinator, iFixit, The Internet Archive, the New York Tech Meetup and &lt;a href=&quot;http://fixthedmca.org&quot; target=&quot;_blank&quot;&gt;FixtheDMCA.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can find the full text of the letter here: INSERT LINK&lt;/p&gt;
+
+&lt;h3&gt;Why we&amp;rsquo;re sending the letter now&lt;/h3&gt;
+
+&lt;p&gt;There have been three bills proposed in Congress since the White House joined over 110,000 petitioners in asking for unlocking to be legalized on March 4th. Unfortunately each of those bills falls short of a complete fix.&lt;/p&gt;
+
+&lt;p&gt;The most recent bill, proposed by the heads of the House and Senate judiciary committee, reverses the Librarian of Congress&amp;rsquo;s decision to remove the exemption for unlocking. But it does so only temporarily, until the Librarian&amp;rsquo;s next rulemaking in 2015. Since the Librarian&amp;rsquo;s exemptions only cover the &amp;ldquo;act&amp;rdquo; of unlocking, the software and tools required for unlocking phones would remain illegal if that bill is passed.&lt;/p&gt;
+
+&lt;p&gt;Public Knowledge published &lt;a href=&quot;http://publicknowledge.org/blog/quick-guide-current-phone-unlocking-bills&quot; target=&quot;_blank&quot;&gt;a simple chart&lt;/a&gt; showing exactly what each of the proposed bills so far does. We&amp;rsquo;re asking Congress to combine the three bills that have been proposed so far, and to add a permanent exemption to the DMCA that legalizes both the act of unlocking and the tools it requires.&lt;/p&gt;
+
+&lt;h3&gt;Why we&amp;rsquo;re asking for hearings on DMCA reform&lt;/h3&gt;
+
+&lt;p&gt;Our letter also asks Congress to hold hearings on wider reforms to Section 1201 of the DMCA. That law was passed to prevent piracy, but instead hinders both innovation and artistic creativity by criminalizing any sort &amp;ldquo;circumvention,&amp;rdquo; even when there&amp;rsquo;s no copyright infringement.&lt;/p&gt;
+
+&lt;p&gt;Here are a few examples of how this causes problems:&lt;/p&gt;
+
+&lt;div style = &quot;padding-left:30px;&quot;&gt;
+
+&lt;p&gt;&lt;h4&gt;The DMCA limits innovation and technological development&lt;/h4&gt;
+The “ban now, ask for exemptions later” approach of the DMCA makes it impossible to know what innovations we've missed out on in the 15 years since the DMCA was enacted. Innovators and investors are clearly discourage from devoting money and resources to projects that would put them at legal risk. &lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;The DMCA limits our rights to modify and repair electronics&lt;/h4&gt;
+Lock-out codes are already used in cars to prevent access to diagnostic information and third-party repairs. The existing anti-circumvention mean that manufacturers of any sort of electronic device can implement a simple DRM systems and thereby discourage any modification and repairs using the legal protections of the DMCA. We're already seeing this with things like jailbreaking cellphones and game consoles in legal limbo due to the §1201 of the DMCA. Kyle Wiens, founder of iFixit and one of the signatories of the letter wrote about this in article for Wired &lt;a href=&quot;http://www.wired.com/opinion/2013/03/you-dont-own-your-cellphones-or-your-cars/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;h4&gt;The DMCA prevents the work of security researchers&lt;/h4&gt;
+    Section 1201 has been used to stifle free speech and scientific research. 
+    &lt;ul&gt;
+        &lt;li&gt;Threats were sent by the RIAA Princeton Professor &lt;a href=&quot;http://en.wikipedia.org/wiki/Edward_Felten&quot; target=&quot;_blank&quot;&gt;Edward Felten&lt;/a&gt; and his employers for his research into a music DRM system in 2000. &lt;/li&gt;
+        &lt;li&gt;In 2005 Professor J Alex Halderman discovered a security flaw in Sony-BMG's &quot;rootkit&quot; copy-protection software that installed spyware and made left users liable to attack by third parties. He was unable to publish his results due to legal risks created by the DMCA&lt;/li&gt;
+        &lt;li&gt;In 2005 HP threatened SNOsoft after they released software that demonstrated vulnerabilities in HP's Tru64 Operating System. HP had been aware of the vulnerabilities but had not bothered to fix them.&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;The DMCA limits documentary filmmakers and remix artists&lt;/strong&gt;&lt;/h4&gt;
+For over a decade the DMCA undermined filmmakers' ability to make fair use of copyrighted materials in their films. Section 1201 prevented them from circumventing DRM systems to include footage from movies and TV in their films. The Librarian recently added an exemption for circumventing DVDs, but failed to add an exemption for Blu-Ray Discs and other forms of media such as streaming. Exemptions issued by the Librarian do not cover the tools required for circumvention. Remix artists, who rely upon altering the works of others to create art, are similarly affected.&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;The DMCA limits the work of archivists&lt;/strong&gt;&lt;/h4&gt;
+Benj Edwards &lt;a href=&quot;http://www.theatlantic.com/technology/archive/13/03/the-copyright-rule-we-need-to-repeal-if-we-want-to-preserve-our-cultural-heritage/274049/&quot;&gt;wrote eloquently&lt;/a&gt; on this subject for the Atlantic, noting that the DMCA &quot;threatens to make archivists criminals if they try to preserve our society's arifacts for future generations.&quot;&lt;/p&gt;
+
+&lt;p&gt;&lt;h4&gt;The DMCA limits consumer's rights to legally backup and time/format shift their purchases&lt;/strong&gt;&lt;/h4&gt;
+Consumers are affected indirectly by each of the above cases, but also more directly. Copyright law makes it legal for users to create backup copies of DVDs, video games and other content, but the DMCA prevents them from doing so. Once a blu-ray disc or DVD is scratched, there's no legal way for a user to recover their purchase. Place-shifting, time-shifting, and format-shifting are permitted by copyright law, but stifled by the DMCA's anti-circumvention rules.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;This list is only partial: the DMCA also affects teachers and college professors by limiting their ability to use DRM-protected media for educational purposes, has been used to suffocate competition (for example by preventing the manufacture of third-party printer cartridges), and interferes with computer intrusion laws. You can more about about the law in the EFF&amp;rsquo;s &lt;a href=&quot;https://www.eff.org/wp/unintended-consequences-under-dmca&quot;&gt;Unintended Consequences&lt;/a&gt; and Public Knowledge&amp;rsquo;s &lt;a href=&quot;http://www.publicknowledge.org/section-3-whitepaper-1201&quot;&gt;DMCA Whitepaper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The DMCA restricts one of Copyright&amp;rsquo;s most important provisions: fair use allows copyrighted material to be used for commentary, criticism, news reporting, teaching, library archiving and a host of other purposes. Congress needs to change the law and make non-infringing circumvention permanently legal.&lt;/p&gt;
+
+&lt;h3&gt;Care about these issues? Take action&lt;/h3&gt;
+
+&lt;p&gt;One thing I&amp;rsquo;ve heard from speaking with Congressional staffers is that people undervalue the effect that their voice can have on decision making in DC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you think the law should change, speak up. Contact your representatives now at &lt;a href=&quot;http://fixthedmca.org&quot;&gt;FixtheDMCA.org&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;And if you&amp;rsquo;re a developer and would like to help build the next version of our campaign site, please contact me.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+
+&lt;hr /&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Motorola Tried to Sue Me For Unlocking Phones</title>
+   <link href="http://sina.is/unlocking-phones"/>
+   <updated>2013-02-03T00:00:00-08:00</updated>
+   <id>http://sina.is/unlocking-phones</id>
+   <content type="html">&lt;p&gt;&lt;sub&gt;About six days ago I started started &lt;a href=&quot;https://petitions.whitehouse.gov/petition/make-unlocking-cell-phones-legal/1g9KhZG7&quot;&gt;a petition&lt;/a&gt; to the White House to make unlocking cell phones legal. If you haven&amp;rsquo;t signed it yet, please do.&lt;/sub&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In September 2005, I received a cease and desist letter from Motorola for selling software to unlock their cell phones.&lt;/p&gt;
+
+&lt;p&gt;The letter indicated that I was in breach of the Digital Millenium Copyright Act (DMCA) by circumventing protection measures in their phones, a crime that’s punishable by up to 5 years in prison and half a million dollars in fines per incident. At the time, I was an undergraduate student studying Physics. The prospect of 5 years or more in prison was devastating.&lt;/p&gt;
+
+&lt;h3&gt;A bit of backstory&lt;/h3&gt;
+
+&lt;p&gt;I started unlocking phones after a typical entrepreneurial experience: I had a problem and was forced to find a solution. I’d brought a cell phone from California to use while at college in the UK, but quickly discovered that it wouldn’t work with any British cell networks. The phone was locked. Strapped for cash and unable to pay for a new phone, I figured out how to change the Motorola firmware to unlock the device.&lt;/p&gt;
+
+&lt;p&gt;Realizing that others were likely having the same problem, I worked with a programmer to create an application that allowed people to quickly and easily unlock their Motorola phones and use them with any carrier. After my first year of college ended in summer of 2004, I launched &lt;a href=&quot;http://www.cell-unlock.com&quot;&gt;Cell-Unlock.com&lt;/a&gt; to sell the software. It was a make-or-break moment for me personally, since I was in a major financial crunch.&lt;/p&gt;
+
+&lt;p&gt;At first sales were slow, but during my second year at college Motorola released the extremely popular RAZR V3, and business quickly picked up.&lt;/p&gt;
+
+&lt;p&gt;It was then that I received Motorola’s cease and desist letter. It claimed that I was in violation of the DMCA, a crime punishable by up to $500,000 in fines and five years in jail per offense. I was 20 years old and terrified; my immediate reaction was to shut down the business.
+I was preparing to do just that when I was introduced to &lt;a href=&quot;http://cyberlaw.stanford.edu/about/people/jennifer-granick&quot;&gt;Jennifer Granick&lt;/a&gt;, founder of Stanford’s Cyberlaw Clinic. She offered pro bono help, and worked with me to respond to Motorola’s demands.&lt;/p&gt;
+
+&lt;h3&gt;The DMCA and unlocking&lt;/h3&gt;
+
+&lt;p&gt;Motorola’s cease and desist letter didn’t claim that I was illegally distributing their copyrighted software. Instead, it claimed that I was “distributing software … for the purpose of circumventing the protection measures” associated with their copyrighted software. There is a subtle but meaningful difference.&lt;/p&gt;
+
+&lt;p&gt;The DMCA includes anti-circumvention provisions that are intended to protect music and movie owners who want to distribute their work digitally, but are afraid of piracy. The provisions prohibit anyone from circumventing the locks that control access to copyrighted works. For example, DVDs are protected by a Digital Rights Management (DRM) system that prevents buyers from easily making copies of movies. The DMCA prohibits circumventing that type of protection system.&lt;/p&gt;
+
+&lt;p&gt;But unlocking a phone has nothing to do with copyright infringement, and using the DMCA to prosecute unlocking isn&amp;rsquo;t what the law was intended for. But the way the DMCA is written means that it can be interpreted as prohibiting any sort of circumvention, and this is exactly what Motorola was doing. If that interpretation of the DMCA were valid, companies would be able to create simple software security mechanisms that legally prevent a customer from using a device in any way except that in which the manufacturer intended.&lt;/p&gt;
+
+&lt;p&gt;Let’s take an example: it’s conceivable that a car manufacturer might put simple chips on each component of a car that are recognized by the car’s electronic system. In and of itself, that’s nothing special. But Motorola’s interpretation of the DMCA would make it illegal for any other company to manufacture third-party replacement parts for that vehicle. The act of selling, or even simply installing, a third party component would be illegal.&lt;/p&gt;
+
+&lt;p&gt;Intuitively we understand that once we’ve purchased a product it’s up to us how we use or modify it. Replacing the hard drive on a Macbook may invalidate our warranty, but it isn’t, and shouldn’t be, illegal. Courts have struck down similar interpretations of the DMCA in the past (for example in 2004 in the case of &lt;a href=&quot;http://en.wikipedia.org/wiki/Lexmark_Int'l_v._Static_Control_Components&quot;&gt;Lexmark v. SCC&lt;/a&gt;). But a 2010 ruling (&lt;a href=&quot;http://en.wikipedia.org/wiki/Vernor_v._Autodesk,_Inc._&quot;&gt;Vernor v. Autodesk&lt;/a&gt;) means that by including a restrictive, &lt;a href=&quot;http://en.wikipedia.org/wiki/Shrink_wrap_contract&quot;&gt;shrinkwrapped&lt;/a&gt; end-user licensing agreement with a product, manufacturers can prohibit even simple modifications to the products consumers purchase.&lt;/p&gt;
+
+&lt;p&gt;Jennifer helped me respond to Motorola by disputing their interpretation of the DMCA; thanks to her efforts, eventually Motorola decided that a college student wasn’t worth pursuing and stopped responding to my letters. I was very lucky that they didn’t decide to take the case to court.&lt;/p&gt;
+
+&lt;h3&gt;Why it matters&lt;/h3&gt;
+
+&lt;p&gt;In the year after helping me with my case, Jennifer Granick fought for an exemption from the DMCA for unlocking phones, and in November 2006 it was granted. That exemption was in place for 6 years, until the Library of Congress and the Copyright Office decided to remove it this past November. As of January 26th, anyone unlocking a new cell phone or providing unlocking services unlocking phones once again risks up to five years in jail for each offense.&lt;/p&gt;
+
+&lt;p&gt;For consumers, the consequences of this are fewer choices and increased restrictions to freedoms we currently take for granted. If you’re traveling abroad and want to use your current cell phone, you’ll need to pay exorbitant roaming charges. As an example, AT&amp;amp;T charges customers $1.50 per minute for calls and $19.50 per megabyte consumed while traveling in Europe. Compare that with the $0.30 per minute and $0.20 per megabyte that you’d be charged in the UK with a prepaid SIM card and an unlocked phone, and it amounts to extortion.&lt;/p&gt;
+
+&lt;p&gt;Locking cell phones also prevents consumers from freely choosing their cell carrier. If you decide to change your network, say from AT&amp;amp;T to T-Mobile, the DMCA regulations mean that unless your carrier agrees to unlock your phone, you’ll need to buy a new device. As a result, manufacturers like Motorola and Apple are keen to keep devices locked so that they can sell more phones.
+The CTIA, the trade association that represents the wireless industry, &lt;a href=&quot;http://blog.ctia.org/2013/01/26/unlocked-devices/&quot;&gt;claims&lt;/a&gt; that the illegality of phone unlocking prevents “large scale phone trafficking operations” that involve unlocking carrier-subsidized phones and selling them abroad. But consumers who buy subsidized phones commit to two-year contracts with hefty early-termination fees (up to $350 for most carriers). The carrier’s subsidies are already contractually protected.&lt;/p&gt;
+
+&lt;p&gt;The decision to remove the exemption for unlocking phones is bad for consumers, and it’s up to our elected officials to help defend consumer rights. Unfortunately, the Library of Congress and the Copyright Office are staffed by unelected officials who aren’t directly beholden to voters.
+I was fortunate that Motorola weren’t more motivated and didn’t take my case further. The company I started still exists, now run by my brother. The money I made then helped me and my college friends bootstrap my next startups, &lt;a href=&quot;http://repeaterstore.com&quot;&gt;RepeaterStore&lt;/a&gt; and &lt;a href=&quot;http://opensignal.com&quot;&gt;OpenSignal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With the unlocking exemption removed, it’s only a matter of time before entrepreneurs and consumers are once again bullied by carriers and manufacturers seeking to protect their profits by constraining consumer choice. Next time around, a Verizon, AT&amp;amp;T, or Apple will likely take the case to court, and it’s possible that someone will end up in jail.&lt;/p&gt;
+
+&lt;h3&gt;The petition&lt;/h3&gt;
+
+&lt;p&gt;Upon reading the Library of Congress’ decision to remove the exemption for unlocking phones, I created the petition asking the White House to review and fix the problem by working to make unlocking permanently legal.&lt;/p&gt;
+
+&lt;p&gt;To date the petition has over 60,000 signatures, but we need 100,000 to get a response from the White House. You can &lt;a href=&quot;https://petitions.whitehouse.gov/petition/make-unlocking-cell-phones-legal/1g9KhZG7&quot;&gt;sign the petition here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It only takes a few moments to sign the petition, but it could help make unlocking permanently legal.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
