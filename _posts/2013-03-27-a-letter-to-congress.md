@@ -10,7 +10,7 @@ This morning a broad coalition of industry and policy leaders sent a letter to t
 
 The letter is signed by over 30 technology companies and public policy organizations including Public Knowledge, the Electronic Frontier Foundation, Reddit, YCombinator, iFixit, The Internet Archive, the New York Tech Meetup and <a href="http://fixthedmca.org" target="_blank">FixtheDMCA.org</a>.
 
-You can find the full text of the letter here: INSERT LINK
+You can find the full text of the letter <a href="https://dl.dropbox.com/u/3155588/Joint%20DMCA%201201%20reform%20letter.pdf" target="_blank">here</a>.
 
 ### Why we're sending the letter now
 There have been three bills proposed in Congress since the White House joined over 110,000 petitioners in asking for unlocking to be legalized on March 4th. Unfortunately each of those bills falls short of a complete fix. 
