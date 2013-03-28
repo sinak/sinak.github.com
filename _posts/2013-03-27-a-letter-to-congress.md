@@ -19,7 +19,7 @@ There have been three bills proposed in Congress since the White House joined ov
 
 The most recent bill, proposed by the heads of the House and Senate judiciary committee, reverses the Librarian of Congress's decision to remove the exemption for unlocking. But it does so only temporarily, until the Librarian's next rulemaking in 2015. Since the Librarian's exemptions only cover the "act" of unlocking, the software and tools required for unlocking phones would remain illegal if that bill is passed.
 
-Public Knowledge published <a href="http://publicknowledge.org/blog/quick-guide-current-phone-unlocking-bills" target="_blank">a simple chart</a> showing exactly what each of the proposed bills so far does. We're asking Congress to combine the three bills that have been proposed so far, and to add a permanent exemption to the DMCA that legalizes both the act of unlocking and the tools it requires.
+Public Knowledge published <a href="http://publicknowledge.org/blog/quick-guide-current-phone-unlocking-bills" target="_blank">a simple chart</a> showing exactly what each of the proposed bills so far does. We're asking Congress to combine the three bills and enact a permanent exemption to the DMCA that legalizes both the act of unlocking and the tools it requires.
 
 ### Why we're asking for hearings on DMCA reform
 Our letter also asks Congress to hold hearings on wider reforms to Section 1201 of the DMCA. That law was passed to prevent piracy, but instead hinders both innovation and artistic creativity by criminalizing any sort "circumvention," even when there's no copyright infringement. 
