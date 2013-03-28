@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Dear Congress it's time for a real fix on phone unlocking — and for the copyright problems behind it
+title: Dear Congress&#58; it's time for a real fix on phone unlocking — and for the copyright problems behind it
 category: posts
-tweet: Dear Congress it's time for a real fix on phone unlocking — and for the copyright problems behind it
+tweet: Dear Congress&#58; it's time for a real fix on phone unlocking — and for the copyright problems behind it
 hashtag: FixtheDMCA
 
 excerpt: A note about a letter we're sending to congress, and why it's important that they act to pass a permanent exemption for unlocking and open hearings for DMCA reform.
