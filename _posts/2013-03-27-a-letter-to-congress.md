@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Dear Congress&#58; it's time for a real fix on phone unlocking — and for the copyright problems behind it
+title: Dear Congress&#58; it's time for a real fix on phone unlocking and the DMCA
 category: posts
-tweet: Dear Congress&#58; it's time for a real fix on phone unlocking — and for the copyright problems behind it
+tweet: Dear Congress&#58; it's time for a real fix on phone unlocking and the DMCA
 hashtag: FixtheDMCA
 
 excerpt: A note about a letter we're sending to congress, and why it's important that they act to pass a permanent exemption for unlocking and open hearings for DMCA reform.
 ---
 
-This morning a broad coalition of industry and policy leaders sent a letter to the heads of the House and Senate Judiciary Comittees asking them to pass a bill that permanently legalizes cell phone unlocking and calls for hearings on reforming of Section 1201 of the DMCA.
+This morning we sent a letter to the heads of the House and Senate Judiciary Comittees asking them to pass a bill that permanently legalizes cell phone unlocking and calls for hearings on reforming of Section 1201 of the DMCA.
 
 The letter is signed by over 30 technology companies and public policy organizations including Public Knowledge, the Electronic Frontier Foundation, Reddit, YCombinator, iFixit, The Internet Archive, the New York Tech Meetup and <a href="http://fixthedmca.org" target="_blank">FixtheDMCA.org</a>.
 
