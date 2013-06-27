@@ -3,7 +3,7 @@ layout: post
 title: Motorola Tried to Sue Me For Unlocking Phones
 category: posts
 
-excerpt: According to the DMCA, I could have faced up to 10 years in jail. Read the story, and why I started an petition to the White House to keep unlocking legal.
+excerpt: Why I started petitioned the White House to make unlocking cell phones legal.
 ---
 
 <sub>About six days ago I started started [a petition](https://petitions.whitehouse.gov/petition/make-unlocking-cell-phones-legal/1g9KhZG7) to the White House to make unlocking cell phones legal. If you haven't signed it yet, please do.</sub>

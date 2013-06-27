@@ -2,15 +2,17 @@
 
 body {
   padding:50px;
-  font:16px/1.6 "freight-sans-pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:16px;
+  font-family: "Helvetica Neue", "ff-dagny-web-pro",  Helvetica, Arial, sans-serif;
   color:#333;
-  font-weight:400;
+  font-weight:300;
+  line-height:150%;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color:#111;
   margin:0 0 20px;
-  font-weight:500;
+  font-weight:400;
 }
 
 p, ul, ol, table, pre, dl {
@@ -20,12 +22,12 @@ p, ul, ol, table, pre, dl {
 sub { line-height:1.1; font-size: 15px; margin-bottom;15px}
 
 h1, h2, h3 {
-  line-height:1.1;
+  line-height:1.2;
 }
 
 ul, li { margin: 10px 0px;}
 
-h3 {font-size:;}
+h3 {font-size:20px;}
 
 h3 { margin: 30px 0 15px 0;}
 
@@ -127,14 +129,13 @@ header {
 
 header h1 {
   font-size:16px;
-  margin-bottom:10px;
+  margin-bottom:3px;
   font-weight:500;
-  text-transform:uppercase;
-  letter-spacing: 1px;
 }
 
 header p {
-  font-size:14px;
+  font-size:13px;
+  line-height:140%;
 }
 
 header img {
@@ -165,6 +166,10 @@ section.excerpt {
     pointer-events: none;
     content: " ";
     }
+
+.postlist {
+  margin-top:20px;
+}
 
 .twitter_box:before {
     left: 20%;
@@ -233,16 +238,22 @@ section.meta h3 {
   font-size: 18px;
 }
 
-.excerpt h3 {
-  margin-bottom:8px;
+section.excerpt h3 {
+  margin-bottom:5px;
+  margin-top:0px;
 }
 
-.excerpt .date {
-  margin-bottom:10px;
+section.excerpt p.meta {
+  margin-bottom:30px;
+}
+
+section.excerpt .date {
+  margin-bottom:2px;
   font-size:13px;
+  text-align:left;
 }
 
-.excerpt .entry {
+section.excerpt .entry {
   margin-bottom:7px;
 }
 
