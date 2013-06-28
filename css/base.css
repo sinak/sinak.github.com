@@ -6,7 +6,7 @@ body {
   font-family: "Helvetica Neue", "ff-dagny-web-pro",  Helvetica, Arial, sans-serif;
   color:#333;
   font-weight:300;
-  line-height:150%;
+  line-height:160%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -136,6 +136,11 @@ header h1 {
 header p {
   font-size:13px;
   line-height:140%;
+}
+
+header p#projects {
+  margin-bottom:6px;
+  margin-top:6px;
 }
 
 header img {
@@ -294,6 +299,10 @@ section.content {
 
 
 @media print, screen and (max-width: 900px) {
+
+  body {
+    padding-top:40px;
+  }
   
   div.wrapper {
     width:auto;
@@ -304,6 +313,18 @@ section.content {
     float:none;
     position:static;
     width:auto;
+  }
+
+  div#header-image {
+    float:left;
+    height:180px;
+    padding-right:30px;
+  }
+
+  div#header-text {
+    width:150px;
+    height:180px;
+    float:left;
   }
 
 
@@ -319,16 +340,15 @@ section.excerpt {
 
   header #title {
     float:left;
-    width:220px;
+    width:301px;
     clear: none;
   }
 
   header #follow {
-    float:left;
-    width:140px;
+    float:right;
+    width:70px;
     clear: none;
-    padding-top:140px;
-    padding-left:15px;
+    padding-top:4px;
   }
 
   section.content {
@@ -418,6 +438,7 @@ section.excerpt {
   header #title {
     width: 204px;
     padding-right:0;
+    height:auto;
   }
 
   header #follow {
@@ -430,6 +451,22 @@ section.excerpt {
     line-height:220%;
     padding-left:0px;
   }
+
+
+
+  div#header-image {
+    float:left;
+    height:auto;
+    padding-right:30px;
+  }
+
+  div#header-text {
+    width:150px;
+    height:150px;
+    float:left;
+  }
+
+
 
   #share_sidebar {
     float:left;
