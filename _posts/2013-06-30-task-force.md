@@ -10,9 +10,9 @@ For the last two weeks I've been helping build and launch <a href="http://stopwa
 
 **The Internet desparately needs a team of rapid responders to help build effective campaigns on short notice.**
 
-Building the StopWatching site was a mad rush: we heard the news, and 3 days later we launched the site with over 80 public advocacy groups as coalition members. A week later we launched a <a href="https://call.stopwatching.us" target="_blank">calling campaign</a>. In just a couple of weeks, the site has racked up over 500,000 signatures and we've sent hundreds of thousands of emails to Congress.
+Building the StopWatching site was a mad rush: we heard the news break, and 3 days later launched the site, collecting over 80 public advocacy groups as initial signatories. A week later we launched a <a href="https://call.stopwatching.us" target="_blank">calling campaign</a>, and over the course of the next two weks the site  racked up over 500,000 signatures. As a result, we've sent hundreds of thousands of emails to Congress on behalf of users.
 
-As the only developer involved from the start, it was a massive struggle to get things done in good time. While the awesome folk from Mozilla were a big in getting things up and running (thanks Bobby, JP!), we were totally understaffed from a technical standpoint.
+As the only developer involved from the start, it was a massive struggle to get things finished. While I love working to a deadline, and the awesome folk from Mozilla were a big help in getting things up and running (thanks Bobby, JP!), we were totally understaffed from a technical standpoint.
 
 ### We could and should be doing so much more.
 
