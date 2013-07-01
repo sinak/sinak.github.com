@@ -36,8 +36,5 @@ Tools like those need to be built and open-sourced for anyone to use. But we als
 
 * Coordinate closely with groups like EFF, Fight for the Future, Free Press, Mozilla and others to launch coalition sites.
 
-### Get involved
-
-We need a core team who are willing to help the reusable tools, and  a larger pool of designers and developers who implement those tools to throw up fast, compelling campaign sites.
 
 <a href="/rritf.html"><img src="/images/get-involved.png" /></a>
