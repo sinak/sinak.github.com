@@ -8,7 +8,7 @@ excerpt: The Internet needs a team of techies to create campaigns for good.
 
 For the last two weeks I've been helping build and launch <a href="http://stopwatching.us" target="_blank">StopWatching.us</a> with EFF, Free Press, Mozilla, Fight for the Future and others. The site is a response to Snowden's revelations about the breadth of NSA's surveillance programs. My main takeaway from the experience is this: 
 
-**The Internet desparately needs a team of rapid responders to help build effective campaigns on short notice.**
+**The Internet desperately needs a team of rapid responders to help build effective campaigns on short notice.**
 
 Building the StopWatching site was a mad rush: we heard the news break, and 3 days later launched the site, collecting over 80 public advocacy groups as initial signatories. A week later we launched a <a href="https://call.stopwatching.us" target="_blank">calling campaign</a>, and over the course of the next two weks the site  racked up over 500,000 signatures. As a result, we've sent hundreds of thousands of emails to Congress on behalf of users.
 
