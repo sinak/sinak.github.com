@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If You Care About Privacy, Pick Up The Phone Right Now and Call"
+title: "If You Care About Privacy, You Should Be Calling Your Representatives"
 category: posts
 tweet: Do you care about privacy? Prove it. ->
 
@@ -21,9 +21,7 @@ This may be the deciding moment on whether the thousands of hours that journalis
 
 Of 40,000 visitors have arrived at DefundtheNSA.com so far today, only about 1,000 have actually picked up the phone and called. You can be part of the minority that not only complains, but actually does something about it.
 
-**Seriously, this matters. Take 5 minutes. Visit <a href="http://DefundTheNSA.com">DefundTheNSA.com</a> and call now.**
-
-
+**Seriously, this shit matters. Take 5 minutes. Visit <a href="http://DefundTheNSA.com">DefundTheNSA.com</a> and actually make a call.**
 
 
 
