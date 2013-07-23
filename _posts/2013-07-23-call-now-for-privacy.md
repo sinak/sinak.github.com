@@ -19,9 +19,9 @@ If you care about privacy, now's the time to act - no matter how disgruntled you
 
 This may be the deciding moment on whether the thousands of hours that journalists, technologists and activists have poured into this will make a difference.
 
-Of 40,000 visitors have arrived at DefundtheNSA.com so far today, but only 1,000 have called. You can be part of the minority that not only complains, but actually does something about it.
+Of 40,000 visitors have arrived at DefundtheNSA.com so far today, only about 1,000 have actually picked up the phone and called. You can be part of the minority that not only complains, but actually does something about it.
 
-It takes less than 5 minutes: visit <a href="http://DefundTheNSA.com">DefundTheNSA.com</a> and call now.
+*This matters. Take 5 minutes. Visit <a href="http://DefundTheNSA.com">DefundTheNSA.com</a> and call now.*
 
 
 
