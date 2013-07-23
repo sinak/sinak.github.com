@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How a Group of HN Users Rescued RestoreTheFourth.net"
+title: "How a Group of Designers & Developers Helped RestoreTheFourth.net"
 category: posts
 tweet: How a Taskforce of Designers and Developers Helped Rescue RestoreTheFourth.net
 
