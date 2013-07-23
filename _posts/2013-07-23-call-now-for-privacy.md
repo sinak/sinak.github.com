@@ -7,7 +7,7 @@ tweet: Do you care about privacy? Prove it. ->
 excerpt: Now is the time to call Congress about NSA surveillance.
 ---
 
-Today is the single most important day so far since Edward Snowden began revealing the extent of the NSA's surveillance dragnet. If you care about privacy, and you've read the news, you should have already picked up the phone and <a href="http://defundthensa.com" target="_blank">called your representative</a>. 
+Today may be the single most important day so far since Edward Snowden began revealing the extent of the NSA's surveillance dragnet. If you care about privacy, and you've read the news, you should have already picked up the phone and <a href="http://defundthensa.com" target="_blank">called your representative</a>. 
 
 For the very first time, a vote is scheduled to occur in Congress on NSA surveillance. And unfortunately, this might also be the last vote on the issue.
 
