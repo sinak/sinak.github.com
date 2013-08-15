@@ -3,7 +3,7 @@ pygments: true
 permalink: /:title
 
 # Continue compiling even if there are errors. Keep it true, unless troubleshooting.
-auto: false
+# auto: false
 
 rdiscount:
   extensions: [smart]
@@ -37,4 +37,4 @@ url: http://sina.is
 category_dir: /
 
 destination: _site
-safe: false
+safe: true
