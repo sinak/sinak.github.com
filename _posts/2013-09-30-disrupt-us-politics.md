@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "A Frighteningly Ambitious Startup Idea: Disrupt US Politics"
+title: "We Need More Innovation in Politics"
 category: posts
-tweet: "A Frighteningly Ambitious Startup Idea: Disrupt US Politics, by @sinak ->"
+tweet: "We Need More Innovation in Politics, by @sinak ->"
 
 excerpt: 
 ---
@@ -15,7 +15,7 @@ excerpt:
 
 It seems pretty clear that the system is ripe for disruption. In the past, that’s typically happened by electing new representatives. But now we seem to be unable to fix the system by casting votes. 
 
-So the question begs itself: In a world where every industry is being disrupted by technology, why not politics? Now that we have the powerful tools of software and the Internet available, how can the democratic process be improved?
+But in a world where every industry is being disrupted by technology, why not politics? Now that we have the powerful tools of software and the Internet available, how can the democratic process be improved?
 
 I don’t have answers to those questions, but I think it’s an area to which technologists are paying far too little attention. 
 
