@@ -130,7 +130,7 @@ header {
 header h1 {
   font-size:16px;
   margin-bottom:3px;
-  font-weight:500;
+  font-weight:600;
 }
 
 header p {
@@ -150,7 +150,7 @@ header img {
 
 strong {
   color:#222;
-  font-weight:500;
+  font-weight:600;
 }
 
 section {
@@ -213,7 +213,7 @@ section.excerpt {
 span.pluginCountTextDisconnected {}
 
 section.postcontent {
-  padding-bottom:10px;
+  padding-bottom:30px;
 }
 
 section.byline {
