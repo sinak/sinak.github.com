@@ -2,7 +2,7 @@
 layout: post
 title: "The Frightening New Definition of Terrorism"
 category: posts
-tweet: "What is terrorism? Read the UK's terrifying new definition. ->"
+tweet: "What is terrorism? The frightening new definition ->"
 
 excerpt: 
 ---
