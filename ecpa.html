@@ -93,6 +93,15 @@
 
 <script>
 
+function getUrlVars() {
+  var vars = {};
+  var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+    vars[key] = value;
+  });
+  return vars;
+}
+
+
 function refresh() {
 
     var currentTime = new Date();
@@ -108,8 +117,13 @@ function refresh() {
 	});
     });
 } ;
+var refreshTime = getUrlVars()["refreshTime"];
+console.log(refreshTime);
 
-setInterval( refresh, 3000);
+if ( refreshTime == "") { refreshTime=3;} 
+
+refresh();
+setInterval( refresh, refreshTime * 1000);
 
 
 </script>
