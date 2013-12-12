@@ -112,7 +112,7 @@ function refresh() {
     $.getJSON("https://api.whitehouse.gov/v1/petitions/5282d5afadfd954d26000011.jsonp?callback=?", function(data){
           var results = data.results;
 	$.each(results, function(index, value) {
-	    $( "#count" ).append(  "<br>" + hours + ":" + minutes + ":" + seconds + " &nbsp; Signature count: " + value.signatureCount + "  &nbsp;&nbsp;&nbsp;&nbsp; Signature needed: " + value.signaturesNeeded);
+	    $( "#count" ).append(  "<br>" + hours + ":" + minutes + ":" + seconds + " &nbsp; Signature count: " + value.signatureCount + "  &nbsp;&nbsp;&nbsp;&nbsp; Signatures needed: " + value.signaturesNeeded);
 	    console.log(value.signatureCount);
 	});
     });
