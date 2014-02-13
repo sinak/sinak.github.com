@@ -25,7 +25,7 @@ I have no idea where she got this from. Feinstein did receive 2420 calls, but sa
 
 DuckDuckGo changed their homepage logo yesterday ([screenshot](http://www.flickr.com/photos/117264256@N06/12483506994/in/set-72157640854489604)). Mozilla added a link and logo on the Firefox start page ([screenshot](http://www.flickr.com/photos/117264256@N06/12468507093/in/set-72157640854489604)), the default homepage shown every time someone opens a new window.
 
-But also: neither Mozilla, Duck Duck Go, nor Tumblr were "organizers." They were simply participants. There were about 40 logos on the domestic site, and another 31 on the international - all of groups participating in the day. Perloth assumed they were organizers and didn't send an email to fact check.
+But neither Mozilla, Duck Duck Go, nor Tumblr were "organizers." They were simply participants. There were about 40 logos on the domestic site, and another 31 on the international - all of groups participating in the day. Perloth assumed they were organizers and didn't send an email to fact check.
 <br><br>
 > **"On privacy forums and Reddit, significant discussions failed to materialize."**
 
@@ -36,7 +36,7 @@ Is 7,000 comments not significant discussion?
 
 ## Comparing Tuesday to SOPA
 
-David Segal's comment, which Perloth belatedly added to the article, sums up the comparison to SOPA aptly: 
+David Segal's comment in the article sums up the comparison to SOPA aptly: 
 
 > “To mark all organizing a success or failure by measuring it against the single biggest online activist moment ever is ridiculous.”
 
