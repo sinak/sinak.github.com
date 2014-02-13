@@ -19,7 +19,7 @@ p, ul, ol, table, pre, dl {
   margin:0 0 15px;
 }
 
-sub { line-height:1.1; font-size: 15px; margin-bottom;15px}
+sub { line-height:1.1; font-size: 15px; margin-bottom:15px;}
 
 h1, h2, h3 {
   line-height:1.2;
@@ -44,7 +44,10 @@ h1 {
 h2 {
   color:#393939;
 }
-
+.content h2 {
+  margin-top:30px;
+  margin-bottom:15px;
+}
 h4, h5, h6 {
   margin-bottom:7px;
   margin-top:20px;
@@ -84,8 +87,8 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal;
-  color:#333;
+  font-family: Monaco, 'Lucida Console', Terminal;
+  color: #333;
   font-size:12px;
 }
 
@@ -297,6 +300,10 @@ section.content {
   }
 
 
+  section.copy p {
+    line-height: 1.3;
+  }
+
 
 @media print, screen and (max-width: 900px) {
 
@@ -359,8 +366,8 @@ section.excerpt {
   section.meta h3, section.meta p {
     margin-bottom: 10px;
   }
-
-  section.copy {
+ section.copy 
+  {
     padding:0;
   }
 
