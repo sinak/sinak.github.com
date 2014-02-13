@@ -54,6 +54,6 @@ But why didn't those companies didn't take part?
 
 Well for one thing, they did. Google sent emails to over a million people who took part in SOPA, asking them to join the campaign.
 
-As was the case with SOPA, larger tech companies left their decision until the last day. This time around they decided to support the protest in a more limited way. I imagine this is due to a confluence of different factors. Those companies have also grown their lobbying presence substantially since 2011. Maybe they want to see whether they can push through reform through that route before resorting to a larger action. Or perhaps they simply didn't view this as being the right moment for action.
+As was the case with SOPA, larger tech companies left their decision until the last day. This time around they decided to support the protest in a more limited way. I imagine this is due to a confluence of different factors. Those companies have also grown their lobbying presence substantially since 2011. Maybe they want to see whether they can push through reform through that route before resorting to a larger action. Or perhaps they simply didn't view this as being the right moment for an all-in action.
 
 But the Internet isn't comprised solely of Facebook, Twitter and Google. To consider an online action successful only when they join is wrong. If anything, Tuesday showed that Internet as a community doesn't rely on big tech companies to make itself heard.
