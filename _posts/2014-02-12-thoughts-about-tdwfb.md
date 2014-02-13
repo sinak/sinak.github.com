@@ -15,11 +15,11 @@ I'm biased as someone who's been working on the campaign for the last month, but
 
 I'm not sure how 80k calls and over 500k emails counts as "barely registering." That's not to mention over 400k shares on Facebook, and another 100k on Twitter and Google Plus. And over 200 million page views of the banner.
 
-Compare Tuesday with the lead-up to the vote on Rep. Amash's bill to defund NSA's call records program. In two days about 15,000 calls were made through DefundTheNSA.com. Staffers reported back that their phones were busy throughout the day.
+Compare Tuesday with the lead-up to the vote on Rep. Amash's bill to defund NSA's call records program. In two days about 15,000 calls were made through DefundTheNSA.com. Staffers reported that their phones rang heavily in support of the bill.
 <br><br>  
 > **"Most of those [calls and emails] were directed to Senator Dianne Feinstein."**
 
-I have no idea where she got this from. Feinstein did receive 2420 calls, but saying she received "most" of them is just plain wrong.
+I have no idea where she got this from. Feinstein did receive 2420 calls, but saying she received "most" of them is wrong.
 <br><br>
 > **"Sites like Tumblr, Mozilla and DuckDuckGo, which were listed as organizers, did nothing to their homepages."**
 
@@ -52,6 +52,6 @@ It's well-known that defeating a proposed law is much easier than passing one. T
 
 But why didn't those companies didn't take part?
 
-As was the case with SOPA companies like Google left their decision until the last minute. This time around they decided to support the protest in name but not actively join. I imagine this is due to a confluence of different factors. Perhaps they simply didn't view this as being the right moment for action. Those companies have also grown their lobbying presence substantially since 2011. Perhaps they want to see whether they can push through reform through that route before resorting to a larger action.
+As was the case with SOPA companies like Google left their decision until the last minute. This time around they decided to support the protest in name but not actively join. I imagine this is due to a confluence of different factors. Those companies have also grown their lobbying presence substantially since 2011. Maybe they want to see whether they can push through reform through that route before resorting to a larger action. Or perhaps they simply didn't view this as being the right moment for action.
 
-But the Internet is not comprised solely of Google, Facebook, et al. To consider an online action successful only when they join is wrong. If anything, Tuesday showed that Internet as a community doesn't rely on big tech companies to make themselves heard.
+But the Internet is not comprised solely of Google and other large companies. To consider an online action successful only when they join is wrong. If anything, Tuesday showed that Internet as a community doesn't rely on big tech companies to make themselves heard.
