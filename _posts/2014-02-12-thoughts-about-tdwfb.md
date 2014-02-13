@@ -2,7 +2,7 @@
 layout: post
 title: Thoughts on NYT's "The Day The Internet Didn't Fight Back"
 category: posts
-tweet: Why the New York Times's article "The Day The Internet Didn't Fight Back" is misleading -> 
+tweet: Why the New York Times article &quot;The Day The Internet Didn't Fight Back&quot; is misleading -> 
 excerpt: 
 ---
  
