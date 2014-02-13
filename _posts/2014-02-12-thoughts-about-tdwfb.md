@@ -8,7 +8,7 @@ excerpt:
  
 Last night, New York Times's Nicole Perloth published a post titled "[The Day the Internet Didn’t Fight Back](http://bits.blogs.nytimes.com/2014/02/11/the-day-the-internet-didnt-fight-back/)." It presents Tuesday's protest in a negative light, claiming that it "barely registered."
 
-I'm biased as someone who's been working on the campaign for the last month, but the article strikes me as a little lazy. It contains factual inaccuracies that would have been easily fixed had she reached out to any of the participants. Even after we notified her of the mistakes, only a few of them were fixed in [an update](https://github.com/sinak/sinak.github.com/commit/d8050c456337beb73301844904acd95225eec031) made late this evening. 
+I'm biased as someone who's been working on the campaign for the last month, but the article strikes me as a little lazy. It contains factual inaccuracies that could easily have been fixed by reaching out to the organizing. Even after we notified her of the mistakes, only a few of them were fixed in [an update](https://github.com/sinak/sinak.github.com/commit/d8050c456337beb73301844904acd95225eec031) made late this evening. 
 
 ## A list of inaccuracies:
 > **"The protest on Tuesday barely registered."**
