@@ -40,7 +40,7 @@ David Segal's comment in the article sums up the comparison to SOPA aptly:
 
 > “To mark all organizing a success or failure by measuring it against the single biggest online activist moment ever is ridiculous.”
 
-But it's also important to note that [Internet Censorship Day](http://americancensorship.org/) preceded SOPA. ICD happened a full two months earlier than SOPA, and was much smaller than the SOPA blackout. Larger tech companies didn't take part then either.
+But it's also important to note that [Internet Censorship Day](http://americancensorship.org/) preceded SOPA. ICD happened a full two months earlier than SOPA, and was much smaller than the SOPA blackout.
 
 While we branded yesterday as "the day," this is by no means the end. It's one in a series of actions and a continuation of projects like Stop Watching Us. The actual votes on bills like the USA Freedom Act and FISA Improvements Act are yet to come. 
 
@@ -48,10 +48,12 @@ We made a dent, but challenging the NSA's surveillance apparatus will be a long 
 
 ## On big tech companies' involvement
 
-It's well-known that defeating a proposed law is much easier than passing one. The legislative process is easy to block people respond more strongly when asked to help defeat a bill. Nevertheless, The Day We Fight Back generated a significant number of calls and did so without participation from the larger technology companies.
+It's well-known that defeating a proposed law is much easier than passing one. The legislative process is easy to block and people respond more strongly when asked to help defeat a bill. Nevertheless, The Day We Fight Back generated a significant number of calls and emails.
 
 But why didn't those companies didn't take part?
 
-As was the case with SOPA companies like Google left their decision until the last minute. This time around they decided to support the protest in name but not actively join. I imagine this is due to a confluence of different factors. Those companies have also grown their lobbying presence substantially since 2011. Maybe they want to see whether they can push through reform through that route before resorting to a larger action. Or perhaps they simply didn't view this as being the right moment for action.
+Well for one thing, they did. Google sent emails to over a million people who took part in SOPA, asking them to join the campaign.
 
-But the Internet is not comprised solely of Google and other large companies. To consider an online action successful only when they join is wrong. If anything, Tuesday showed that Internet as a community doesn't rely on big tech companies to make themselves heard.
+As was the case with SOPA, larger tech companies left their decision until the last day. This time around they decided to support the protest in a more limited way. I imagine this is due to a confluence of different factors. Those companies have also grown their lobbying presence substantially since 2011. Maybe they want to see whether they can push through reform through that route before resorting to a larger action. Or perhaps they simply didn't view this as being the right moment for action.
+
+But the Internet isn't comprised solely of Facebook, Twitter and Google. To consider an online action successful only when they join is wrong. If anything, Tuesday showed that Internet as a community doesn't rely on big tech companies to make itself heard.
