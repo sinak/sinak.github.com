@@ -2,7 +2,7 @@
 layout: post
 title: Thoughts on NYT's "The Day The Internet Didn't Fight Back"
 category: posts
-tweet: Why the New York Times article &quot;The Day The Internet Didn't Fight Back&quot; is misleading -> 
+tweet: Factual innacuracies in Nicole Perloth&#39;s article &quot;The Day The Internet Didn't Fight Back&quot; -> 
 excerpt: 
 ---
  
