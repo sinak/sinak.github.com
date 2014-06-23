@@ -6,9 +6,9 @@ tweet: Much-improved cellphone unlocking bill by @SenatorLeahy. We’re one step
 excerpt: 
 ---
  
-It's been well over a year since I started advocating for a bill to reverse the Librarian of Congress's decision to remove a DMCA anti-circumvention exemption for cellphone unlocking. While other advocates and I had to retract support from the version of the bill that passed in the House, we thankfully now are one step closer to a better bill. 
+It's been well over a year since I started advocating for Congress to reverse a controversial decision by the Librarian  to remove an anti-circumvention exemption for cellphone unlocking. While other advocates and I had to retract support from the version of the bill that passed in the House, we thankfully now are one step closer to a better bill. 
 
-### Statement on the Senate Judiciary’s amended unlocking bill
+### Full statement
 
 We’ve got an exciting unlocking update, and one that restores — at least a little bit — our faith in democracy.
 
