@@ -9,7 +9,7 @@ excerpt:
 It's been well over a year since I started advocating for a bill to reverse the Librarian of Congress's decision to remove a DMCA anti-circumvention exemption for cellphone unlocking. Efforts stalled in February after pressure from the CTIA resulted in a last-minute change to the bill that was passed in the House. Thankfully, that change has now been reverted in a new Senate version, and should be adopted in the final bill. Here's a statement by Kyle Wiens and I:
 
 
-## Statement on the Senate Judiciary’s introduction of amended unlocking bill
+### Statement on the Senate Judiciary’s introduction of amended unlocking bill
 
 We’ve got an exciting unlocking update, and one that restores — at least a little bit — our faith in democracy.
 
