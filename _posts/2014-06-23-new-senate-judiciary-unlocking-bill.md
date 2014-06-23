@@ -6,11 +6,11 @@ tweet: Much-improved cellphone unlocking bill by @SenatorLeahy. We’re one step
 excerpt: 
 ---
  
-<sub>It's been well over a year since I started advocating for Congress to reverse a controversial decision by the Librarian  to remove an anti-circumvention exemption for cellphone unlocking. 
+<sub>It's been well over a year since I started advocating for Congress to reverse a controversial decision by the Librarian  to remove an anti-circumvention exemption for cellphone unlocking.</sub> 
 
-While other advocates and I had to retract support from the version of the bill that passed in the House, we thankfully now are one step closer to a better bill. 
+<sub>While other advocates and I had to retract support from the version of the bill that passed in the House, we thankfully now are one step closer to a better bill. 
 
-Here's a full statement by Kyle Wiens and I on the new bill:</sub> 
+<sub>Here's a full statement by Kyle Wiens and I on the new bill:</sub> 
 
 --- 
 We’ve got an exciting unlocking update, and one that restores — at least a little bit — our faith in democracy.
