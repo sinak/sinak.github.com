@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Step Closer to a Meaningful Cellphone Unlocking Bill
+title: A Much-Improved Cell Phone Unlocking Bill in the Senate Judiciary
 category: posts
 tweet: Much-improved cellphone unlocking bill by @SenatorLeahy. We’re one step close to owning our phones (via @sinak) -> 
 excerpt: 
