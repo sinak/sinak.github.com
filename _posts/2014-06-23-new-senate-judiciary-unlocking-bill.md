@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Much-Improved Cell Phone Unlocking Bill in the Senate Judiciary
+title: A Much-Improved Cellphone Unlocking Bill in the Senate Judiciary
 category: posts
 tweet: Much-improved cellphone unlocking bill by @SenatorLeahy. We’re one step close to owning our phones (via @sinak) -> 
 excerpt: 
