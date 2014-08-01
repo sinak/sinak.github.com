@@ -6,7 +6,7 @@ tweet: Obama just signed a bill to make unlocking legal again (via @sinak) ->
 excerpt: 
 ---
  
-Any minute now (3:45pm ET), President Obama is going to sign the "Unlocking Consumer Choice and Wireless Competition Act” into law. The bill reinstates an exemption for unlocking cellphones in the Digital Millennium  opyright Act, and moves unlocking cellphones from a legal grey area back to lawfullness.
+Any minute now President Obama is going to sign the "Unlocking Consumer Choice and Wireless Competition Act” into law (it's scheduled for 3:45 ET today). The bill reinstates an exemption for unlocking cellphones in the Digital Millennium  opyright Act, and moves unlocking cellphones from a legal grey area back to lawfullness.
 
 My [original petition](https://petitions.whitehouse.gov/petitions/popular/0/2/0/) did a lot to kick off the process, but it took about a year and a half of negotiating with stakeholders, going back and forth with congressional staffers, and pushing back against the CTIA to get to an actual law. 
 
