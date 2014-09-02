@@ -18,7 +18,7 @@ As the only developer involved from the start, it was a massive struggle to get 
 
 StopWatching.us was great for something thrown together in just a few days. But with more resources, we could have tried so much more, and the site might have been much more effective in being a focal point of protest.
 
-But the campaign isn't over yet. And it  won't be long until there's something other revelation of government wrong-doing: more news from Snowden's cache of NSA documents, another strange bill that folks in Congress are intent on passing (see: CISPA, SOPA/PIPA), or progress with an international treaty that would lock down domestic laws, like the ongoing Trans-Pacific Partnership negotiations.
+But the campaign isn't over yet. And it  won't be long until there's some other revelation of government wrong-doing: more news from Snowden's cache of NSA documents, another strange bill that folks in Congress are intent on passing (see: CISPA, SOPA/PIPA), or progress with an international treaty that would lock down domestic laws, like the ongoing Trans-Pacific Partnership negotiations.
 
 ### We need to be ready for action.
 
