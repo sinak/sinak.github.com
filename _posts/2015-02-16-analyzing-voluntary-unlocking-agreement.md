@@ -6,7 +6,7 @@ tweet: 'Did your carrier deliver on its promise to the FCC to make unlocking eas
 excerpt: 
 ---
 
-<p>A year ago US cell carriers agreed to implement more lenient unlocking policies. I compared what they committed to do with what they actually did. Here are ther results:</p>
+<p>A year ago US cell carriers agreed to implement more lenient unlocking policies. I compared what they committed to do with what they actually did. Here are the results:</p>
 
  <img alt="unlocking scorecard" src="https://cdn.shopify.com/s/files/1/0358/5537/files/repeaterstore-com-unlocking-scorecard.png?17231231381977591598" style="width: 100%;">
  {{SHARE_BLOCK}}
