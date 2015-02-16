@@ -9,8 +9,8 @@ og-image: https://cdn.shopify.com/s/files/1/0358/5537/files/repeaterstore-com-un
 
 <p>A year ago US cell carriers agreed to implement more lenient unlocking policies. I compared what they committed to do with what they actually did. Here are the results:</p>
 
- <img alt="unlocking scorecard" src="https://cdn.shopify.com/s/files/1/0358/5537/files/repeaterstore-com-unlocking-scorecard.png?17231231381977591598" style="width: 100%;">
- {{SHARE_BLOCK}}
+<p style='line-height: 1.4; margin-bottom: 0;'><img alt="unlocking scorecard" src="https://cdn.shopify.com/s/files/1/0358/5537/files/repeaterstore-com-unlocking-scorecard.png?17231231381977591598" style="width: 100%;"></p>
+<p style='line-height: 1.4; margin-top: 0; font-size: 12px;'>(I made this graphic and am releasing it to the public domain - feel free to use it however you want, but a link back to where it originally appears on <a href="https://www.repeaterstore.com/pages/fcc-unlocking-commitments">RepeaterStore</a> would be much appreciated.)</p>
 
  <h2>Summary:</h2><ul>
    <li><strong>Sprint</strong> and <strong>T-Mobile</strong> have failed to fulfill half their own voluntary commitments.</li>
