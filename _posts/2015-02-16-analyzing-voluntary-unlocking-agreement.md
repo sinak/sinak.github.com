@@ -3,7 +3,8 @@ layout: post
 title: Analyzing the Carrier's Voluntary Unlocking Agreements
 category: posts
 tweet: 'Did your carrier deliver on its promise to the FCC to make unlocking easier? 2 of 4 didn&#39;t: http://twitter.com/sinakhanifar/status/566184161862381569/photo/1'
-excerpt: 
+excerpt: A year ago US cell carriers agreed to implement more lenient unlocking policies. I compared what they committed to do with what they actually did. Here are the results.
+og-image: https://cdn.shopify.com/s/files/1/0358/5537/files/repeaterstore-com-unlocking-scorecard.png?17231231381977591598
 ---
 
 <p>A year ago US cell carriers agreed to implement more lenient unlocking policies. I compared what they committed to do with what they actually did. Here are the results:</p>

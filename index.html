@@ -8,7 +8,7 @@ title: Sina Khanifar
     	{% if post.draft != true %}
 		<p class="date">{{ post.date | date_to_string }}</p>
 		<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-		<div class="entry">{{ post.excerpt }}</div>
+		<!-- <div class="entry">{{ post.excerpt }}</div> -->
         	<p class="meta"><a href="{{ post.url }}">Read More</a></p>
         {% endif %}
     {% endfor %}
