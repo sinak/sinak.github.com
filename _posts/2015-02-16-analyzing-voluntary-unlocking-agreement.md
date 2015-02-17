@@ -15,6 +15,7 @@ og-image: https://cdn.shopify.com/s/files/1/0358/5537/files/repeaterstore-com-un
  <h2>Summary:</h2><ul>
    <li><strong>Sprint</strong> and <strong>T-Mobile</strong> have failed to fulfill half their own voluntary commitments.</li>
    <li><strong>Verizon</strong> has the most lenient policy: they've almost entirely stopped locking their devices.</li>
+   <li><strong>Update 02/17:</strong> Verizon apparently is only unlocking phones becuase the <a href="http://www.law.cornell.edu/cfr/text/47/27.16">FCC required it</a> as part of their 700MHz Block C auction.</li>
    <li><strong>AT&amp;T</strong> has met almost all their unlocking commitments.</li>
    <li>The voluntary measures are missing a critical criteria: <strong>interoperability</strong>.</li>
    <li><strong>Third-party unlocking is still critical.</strong> Long overdue <strong>reform of the DMCA</strong>'s anti-circumvention law is the only way to protect a consumer's right to unlock.</li>
@@ -110,6 +111,8 @@ og-image: https://cdn.shopify.com/s/files/1/0358/5537/files/repeaterstore-com-un
 
  <p>Verizon is the only carrier that seems to have realized how ridiculous "locking" consumer's devices is in the first place. They've almost entirely stopped locking phones, and make it trivially simple to unlock any phones that may have a lock. But even they don't make interoperability simple. Their <a href="http://www.verizonwireless.com/mobile-living/network-and-plans/prepaid-plans-bring-your-own-device-verizon/">Bring Your Own Device"</a> program makes it clear that your phone needs to be a "unused Verizon phone" to be elligible.</p>
 
+ <p><strong>Update:</strong> It turns out Verizon isn't so wise after all. They were apparently <a href="http://www.law.cornell.edu/cfr/text/47/27.16">required to unlock phones</a> by the FCC when they bought licenses in the 700MHz Block C auction.</p>
+
  <h2>
    Reforming the DMCA is still critical
  </h2>
@@ -173,6 +176,8 @@ og-image: https://cdn.shopify.com/s/files/1/0358/5537/files/repeaterstore-com-un
    <p>
      Verizon doesn’t lock any of their 4G LTE or 3G devices, other than their “Phone-in-the-Box” devices, which are trivially unlockable with either the code “000000” or “123456.” So I automatically gave them credit for all the other categories.
    </p>
+   <p><strong>Update:</strong> Verizon were apparently <a href="http://www.law.cornell.edu/cfr/text/47/27.16">required to unlock phones</a> by the FCC when they bought licenses in the 700MHz Block C auction, hence their more reasonable unlocking policy.</p>
+
    <h3>Sprint</h3>
    <ol>
      <li>
