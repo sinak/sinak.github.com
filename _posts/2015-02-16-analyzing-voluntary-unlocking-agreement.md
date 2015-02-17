@@ -15,7 +15,7 @@ og-image: https://cdn.shopify.com/s/files/1/0358/5537/files/repeaterstore-com-un
  <h2>Summary:</h2><ul>
    <li><strong>Sprint</strong> and <strong>T-Mobile</strong> have failed to fulfill half their own voluntary commitments.</li>
    <li><strong>Verizon</strong> has the most lenient policy: they've almost entirely stopped locking their devices.</li>
-   <li><strong>Update 02/17:</strong> Verizon apparently is only unlocking phones becuase the <a href="http://www.law.cornell.edu/cfr/text/47/27.16">FCC required it</a> as part of their 700MHz Block C auction.</li>
+   <li><strong>Update 02/17:</strong> Verizon may only have such a liberal unlocking policy becuase the <a href="http://www.law.cornell.edu/cfr/text/47/27.16">FCC required it</a> as part of their 700MHz Block C auction.</li>
    <li><strong>AT&amp;T</strong> has met almost all their unlocking commitments.</li>
    <li>The voluntary measures are missing a critical criteria: <strong>interoperability</strong>.</li>
    <li><strong>Third-party unlocking is still critical.</strong> Long overdue <strong>reform of the DMCA</strong>'s anti-circumvention law is the only way to protect a consumer's right to unlock.</li>
