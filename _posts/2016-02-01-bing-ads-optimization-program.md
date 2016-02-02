@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bing Ads' Very Questionable "Optimization Program" 
+title: Bing Ads' "Optimization Program" 
 category: posts
-tweet: Bing Ads' Very Questionable "Optimization Program" 
+tweet: Bing Ads' "Optimization Program" will spend your money for you:
 excerpt: Bing Ads' new "Optimization Program" is borderline fraud.
 ---
 
