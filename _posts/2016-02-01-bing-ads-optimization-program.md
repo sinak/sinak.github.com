@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Bing Ads's Very Questionable "Optimization Program" and How to Opt Out
+title: Bing Ads' Very Questionable "Optimization Program" and How to Opt Out
 category: posts
-tweet: Bing Ads's Very Questionable "Optimization Program" and How to Opt Out
-excerpt: Bing Ads's new "Optimization Program" is borderline fraudulent.
+tweet: Bing Ads' Very Questionable "Optimization Program" and How to Opt Out
+excerpt: Bing Ads' new "Optimization Program" is borderline fraud.
 ---
 
 I recently received an email from Bing Ads notifying me that our account had been "chosen for a special optimization program."
