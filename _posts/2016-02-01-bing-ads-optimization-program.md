@@ -2,7 +2,7 @@
 layout: post
 title: Bing Ads's Very Questionable "Optimization Program" and How to Opt Out
 category: posts
-tweet: 'Do you/your company use @bingads? Look for an email like this & opt out before they start spending your $ for you: '
+tweet: 'Do you/your company use @bingads? Opt out of their very questional optimization prgoram:'
 excerpt: Bing Ads's new "Optimization Program" is borderline fraudulent.
 ---
 
