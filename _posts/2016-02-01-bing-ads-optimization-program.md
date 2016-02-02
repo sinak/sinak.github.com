@@ -14,9 +14,9 @@ Here's the email:
 
 I'm all for special optimization. Sounds great, right? 
 
-Turns out, not so much. **In reality, Bing Ads is hijacking its customer's accounts and maxing out their daily budgets.**
+Turns out, not so much. Here's what's really happening: **Bing Ads is hijacking its customer's accounts and maxing out their daily budgets.**
 
-Here's what the program actually involves:
+From their email:
 
 > During the program, our search experts will optimize your keywords, bids and ads using Bing Ads data and insights to help you reach more customers. 
 
@@ -26,7 +26,7 @@ It might be a little hard to read through the marketing BS here, so let me break
 
 And here's the kicker:
 
-> If you’d prefer not to participate, please complete [this online form](https://advertise.bingads.microsoft.com/en-us/optout-optimization) before February 5 to opt out. If you have any questions or concerns, please [email us]((mailto:bingopt@microsoft.com?subject=Questions%20on%20optimization%20program). We’re looking forward to helping you get more from your campaigns. 
+> If you’d prefer not to participate, please complete [this online form](https://advertise.bingads.microsoft.com/en-us/optout-optimization) before February 5 to opt out.
 
 That's right: the program is *default opt-in*. 
 
@@ -34,9 +34,9 @@ Unless you see Bing's email, absorb what their "special optimization program" me
 
 This seems pretty clearly unethical. 
 
-*Many, many* businesses don't use their max budget to control their ad online ad spend. Instead, they limit their ad spend by setting specific max bids on a per-keyword basis, and set an arbitrarily high max budget to make sure they reach every possible customer. 
+*Many, many* businesses don't use their max budget to control their ad online ad spend. Instead, they limit their ad spend by setting specific max bids on a per-keyword basis, and set an arbitrarily high max budget to make sure they reach every possible potential customer. 
 
-For example, my own company, [RepeaterStore](https://repeaterstore.com), does just this. We set specific bids for search keywords like "cell phone signal booster," and those bids, along with the number of clicks, determine how much we pay in total. We set an arbitrarily higher daily max budget to make sure we don't lose out on any potential searches, and control spend using our specific keyword bids.
+For example, my own company, [RepeaterStore](https://repeaterstore.com), does just this. We set specific bids for search keywords like "cell phone signal booster," and those bids, along with the number of searches, determine how much we pay in total. We set an arbitrarily higher daily max budget to make sure we don't lose out on any potential searches, and control spend using our specific keyword bids.
 
 By increasing bids to max out their daily budgets, Bing is hijacking customer accounts and milking them for every possible ad dollar.
 

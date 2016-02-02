@@ -17,7 +17,7 @@ jQuery(document).ready(function($) {
 if ($(window).width() >= 480) {
 	window.setTimeout(function(){
 			$( '#share-widget' ).fadeIn("slow");
-		}, 2000);
+		}, 5000);
 }
 
 

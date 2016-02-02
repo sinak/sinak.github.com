@@ -219,6 +219,10 @@ section.postcontent {
   padding-bottom:30px;
 }
 
+section.postcontent img {
+  margin: 10px 0;
+}
+
 section.byline {
   padding-bottom:30px;
 }
@@ -273,10 +277,11 @@ section.excerpt .entry {
 #share_sidebar {
   float:left;
   width:60px;
-  text-align:center;
+  text-align:right;
   height:100px;
   position:fixed;
-  margin-left:780px;
+  right:20px;
+  top:10px;
   margin-top:10px;
 }
 
@@ -289,7 +294,8 @@ section.content {
 }
 
 #share-widget {
-  line-height:250%;
+  line-height:100%;
+  text-align: right;
 }
 
 
@@ -341,7 +347,7 @@ section.excerpt {
   
   header {
     float:left;
-    width: 100%;
+    width: 90%;
     padding-bottom:20px;
   }
 
@@ -412,7 +418,7 @@ section.excerpt {
   }
   
   header#follow{
-    margin-left:0px;
+    margin-left:-40px;
   }
 
   pre, code {
@@ -453,8 +459,8 @@ section.excerpt {
     width:143px;
     clear: none;
     padding-top:10px;
-    margin-right:-25px;
-    width:80px;
+    margin-right:0;
+    width:100px;
     line-height:220%;
     padding-left:0px;
   }
