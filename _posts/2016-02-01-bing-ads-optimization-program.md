@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bing Ads is Hijacking its Customer's Accounts
+title: Bing Ads is Hijacking its Customers' Accounts
 category: posts
 tweet: Bing Ads' "Optimization Program" will spend your money for you
 excerpt: Bing Ads' new "Optimization Program" is borderline fraud.
