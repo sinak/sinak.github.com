@@ -34,12 +34,12 @@ Unless you see Bing's email, absorb what their "special optimization program" me
 
 This seems pretty clearly unethical. 
 
-*Many, many* businesses don't use their max budget to control their ad online ad spend. Instead, they limit their ad spend by setting specific max bids on a per-keyword basis, and set an arbitrarily high max budget to make sure they reach every possible potential customer. 
+*Many, many* businesses don't use their max budget to control their ad online ad spend. Instead, they limit their ad spend by setting specific max bids on a per-keyword basis and set a high max budget to make sure they reach every possible potential customer. 
 
 For example, my own company, [RepeaterStore](https://repeaterstore.com), does just this. We set specific bids for search keywords like "cell phone signal booster," and those bids, along with the number of searches, determine how much we pay in total. We set an arbitrarily higher daily max budget to make sure we don't lose out on any potential searches, and control spend using our specific keyword bids.
 
 By increasing bids to max out their daily budgets, Bing is hijacking customer accounts and milking them for every possible ad dollar.
 
-If you have a Bing account, you can opt out of the program by going to [this link](https://advertise.bingads.microsoft.com/en-us/optout-optimization).
+If you have a Bing account, you can opt-out of the program by going to [this link](https://advertise.bingads.microsoft.com/en-us/optout-optimization).
 
 And if you're doing that, take a minute and tweet [@BingAds](https://twitter.com/bingads) or [send them an email](mailto:service@bingads.com) and let them know you disapprove of this shady tactic. 
