@@ -14,7 +14,7 @@ Here's the email:
 
 I'm all for special optimization. Sounds great, right? 
 
-Turns out, not so much. Here's what's really happening: **Bing Ads is hijacking its customer's accounts and maxing out their daily budgets.**
+Turns out, not so much. Here's what's really happening: **Bing Ads is hijacking its customers' accounts and maxing out their daily budgets.**
 
 From their email:
 
